@@ -1,10 +1,11 @@
 **Code for analysis of tree community, above-ground biomass of standing trees and bulk soil organic carbon**
 
 # Required packages to run the analyses:
-
-- library(MuMIn)
-- library(vegan)
-- library(devtools)
+'''
+library(MuMIn)
+library(vegan)
+library(devtools)
+'''
 - library(pairwiseAdonis)
 - library(devtools)
 - library(httr)
