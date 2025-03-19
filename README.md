@@ -2,33 +2,33 @@
 
 # Required packages to run the analyses:
 
--library(MuMIn)
--library(vegan)
--library(devtools)
--library(pairwiseAdonis)
--library(devtools)
--library(httr)
--library(iNEXT)
--library(car)
--library(lme4)
--library(lmerTest)
--library(emmeans)
--library(sp)
--library(nlme)
--library(gstat)
--library(ggplot2)
--library(dplyr)
--library(tidyr)
--library(viridis)
--library(fossil)
--library(FactoMineR) # For PCA with factors
--library(factoextra) # For PCA visualization
--library(Hmisc) # For correlation
--library(PerformanceAnalytics) # For correlation visualisation
--library(corrplot) # For correlation visualisation
--library(multcompView) # To visualise letters over boxplots in ggplot
--library(gridExtra) # To put plots of ggplot in one row
--library(cowplot) # To put plots of ggplot in one row
+- library(MuMIn)
+- library(vegan)
+- library(devtools)
+- library(pairwiseAdonis)
+- library(devtools)
+- library(httr)
+- library(iNEXT)
+- library(car)
+- library(lme4)
+- library(lmerTest)
+- library(emmeans)
+- library(sp)
+- library(nlme)
+- library(gstat)
+- library(ggplot2)
+- library(dplyr)
+- library(tidyr)
+- library(viridis)
+- library(fossil)
+- library(FactoMineR) # For PCA with factors
+- library(factoextra) # For PCA visualization
+- library(Hmisc) # For correlation
+- library(PerformanceAnalytics) # For correlation visualisation
+- library(corrplot) # For correlation visualisation
+- library(multcompView) # To visualise letters over boxplots in ggplot
+- library(gridExtra) # To put plots of ggplot in one row
+- library(cowplot) # To put plots of ggplot in one row
 
 # Useful references:
 
