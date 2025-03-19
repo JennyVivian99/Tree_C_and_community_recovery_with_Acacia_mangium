@@ -52,7 +52,7 @@ For spatial models:
 - Tutorial: https://www.youtube.com/watch?app=desktop&v=bUFdei_zl88
 ## For analyses interpretation see also 
 - https://stats.libretexts.org/Bookshelves/Applied_Statistics/Natural_Resources_Biometrics_(Kiernan)/10%3A_Quantitative_Measures_of_Diversity_Site_Similarity_and_Habitat_Suitability/10.01%3A_Introduction__Simpsons_Index_and_Shannon-Weiner_Index
-For asymptotic understanding: 
+## For asymptotic understanding: 
 - https://esajournals.onlinelibrary.wiley.com/doi/10.1890/13-0133.1                                   
 - https://ericmarcon.github.io/entropart/articles/extrapolation.html#:~:text=Thus%2C%20the%20asymptotic%20estimators%20of,a%20function%20of%20sample%20size.
 ## For pairwise adonis installation
