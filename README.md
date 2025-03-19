@@ -1,5 +1,12 @@
 # Code for analysis of tree community, above-ground biomass of standing trees and bulk topsoil organic carbon
 
+This code is part of [INSERT PUBLICATION WHEN DONE] and was created for the analysis of the tree community, aboveground biomass and soil nutrients of different _Acacia mangium_ plantations, in comparison to reference states of _Imperata cylindrica_ grasslands and remnant forests all located in the Philippines.
+Data collection methods are described in [PUBLICATION].
+
+Analyses are organised in separate folders in which a brief description is provided along with the dataset used.
+
+Below are reported the required packages and useful references for analysis understanding and results interpretation.
+
 ## Required packages to run the analyses:
 ```
 library(MuMIn)
@@ -33,7 +40,7 @@ library(cowplot) # To put plots of ggplot in one row
 # Useful references:
 
 ## For variogram generation:
-- https://www.uprm.edu/ccs-cisac/performing-variogram-in-/#:~:text=Step%201%3A%20Prepare%20the%20Data,input%20and%20output%20file%20paths.&text=Data%20is%20comprised%20of%203,(y%20coordinates)%2C%20Col.)
+- https://www.uprm.edu/ccs-cisac/performing-variogram-in-/#:~:text=Step%201%3A%20Prepare%20the%20Data,input%20and%20output%20file%20paths.&text=Data%20is%20comprised%20of%203,(y%20coordinates)%2C%20Col
 ## For spatial models:
 - https://www.flutterbys.com.au/stats/tut/tut8.4a.html
 ## For Kruskal-Wallis test
