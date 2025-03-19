@@ -34,7 +34,7 @@ library(cowplot) # To put plots of ggplot in one row
 
 ## For variogram generation:
 - https://www.uprm.edu/ccs-cisac/performing-variogram-in-/#:~:text=Step%201%3A%20Prepare%20the%20Data,input%20and%20output%20file%20paths.&text=Data%20is%20comprised%20of%203,(y%20coordinates)%2C%20Col.)
-For spatial models:
+## For spatial models:
 - https://www.flutterbys.com.au/stats/tut/tut8.4a.html
 ## For Kruskal-Wallis test
 - https://bookdown.org/thomas_pernet/Tuto/non-parametric-tests.html
