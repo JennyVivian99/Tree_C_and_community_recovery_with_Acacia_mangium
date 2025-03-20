@@ -1,0 +1,421 @@
+Sample__ID,Landcover,Hill__side,Scientific__name,Common_name_species,DBH (cm),Height (m),Native,Lat_ID,Long_ID
+G1SB,Grassland,S,NA,NA,0,NA,NA,11.593693,124.547339
+G2NB,Grassland,N,NA,NA,0,NA,NA,11.594198,124.547068
+G3SB,Grassland,S,Cocos nucifera,Coconut,34.6,20,N,11.595006,124.546517
+G4NB,Grassland,N,NA,NA,0,NA,NA,11.595229,124.546754
+E2NB,2 years old,N,Acacia mangium,Mangium,6.7,5.2,E,11.597496,124.550941
+E2NB,2 years old,N,Acacia mangium,Mangium,8.9,6.1,E,11.597496,124.550941
+E2NB,2 years old,N,Acacia mangium,Mangium,5.8,5.2,E,11.597496,124.550941
+E2NB,2 years old,N,Acacia mangium,Mangium,8.2,6.6,E,11.597496,124.550941
+E2NB,2 years old,N,Acacia mangium,Mangium,5.4,5.6,E,11.597496,124.550941
+E3SB,2 years old,S,NA,NA,0,NA,NA,11.598527,124.548388
+E4NB,2 years old,N,Cocos nucifera,Coconut,8.4,22.8,N,11.598743,124.548431
+E4NB,2 years old,N,Acacia mangium,Mangium,6.7,7.5,E,11.598743,124.548431
+E4NB,2 years old,N,Acacia auriculiformis,Aure,6.1,6.1,E,11.598743,124.548431
+E4NB,2 years old,N,Acacia mangium,Mangium,5.9,7,E,11.598743,124.548431
+E4NB,2 years old,N,Acacia mangium,Mangium,5.7,8.4,E,11.598743,124.548431
+E4NB,2 years old,N,Acacia mangium,Mangium,5.3,5.2,E,11.598743,124.548431
+I1SB,10 years old,S,Acacia mangium,Mangium,22.8,12.4,E,11.590785,124.5368226
+I1SB,10 years old,S,Acacia mangium,Mangium,16.2,NA,E,11.590785,124.5368226
+I1SB,10 years old,S,Acacia mangium,Mangium,23.7,16.1,E,11.590785,124.5368226
+I1SB,10 years old,S,Cocos nucifera,Coconut,25,NA,N,11.590785,124.5368226
+I1SB,10 years old,S,Acacia mangium,Mangium,30.7,NA,E,11.590785,124.5368226
+I1SB,10 years old,S,Acacia mangium,Mangium,27.6,NA,E,11.590785,124.5368226
+I1SB,10 years old,S,Mallotus mollissimus ,Hanom-o,7.4,NA,N,11.590785,124.5368226
+I1SB,10 years old,S,Acacia mangium,Mangium,17,14.9,E,11.590785,124.5368226
+I1SB,10 years old,S,Trema orientalis,Anabiong,5,NA,N,11.590785,124.5368226
+I1SB,10 years old,S,Acacia mangium,Mangium,28.7,NA,E,11.590785,124.5368226
+I1SB,10 years old,S,Acacia mangium,Mangium,43.3,18.4,E,11.590785,124.5368226
+I1SB,10 years old,S,Acacia mangium,Mangium,23.9,NA,E,11.590785,124.5368226
+I1SB,10 years old,S,Acacia mangium,Mangium,36.5,NA,E,11.590785,124.5368226
+I1SB,10 years old,S,Acacia mangium,Mangium,21.6,NA,E,11.590785,124.5368226
+I1SB,10 years old,S,Acacia mangium,Mangium,19,15.7,E,11.590785,124.5368226
+I1SB,10 years old,S,Acacia mangium,Mangium,22.7,NA,E,11.590785,124.5368226
+I1SB,10 years old,S,Acacia mangium,Mangium,33.6,NA,E,11.590785,124.5368226
+I1SB,10 years old,S,Acacia mangium,Mangium,27.8,18.1,E,11.590785,124.5368226
+I2NB,10 years old,N,Acacia mangium,Mangium,29.3,23.7,E,11.591253,124.535819
+I2NB,10 years old,N,Acacia mangium,Mangium,16.2,16.1,E,11.591253,124.535819
+I2NB,10 years old,N,Acacia mangium,Mangium,33.3,23.4,E,11.591253,124.535819
+I2NB,10 years old,N,Acacia mangium,Mangium,24.6,22.1,E,11.591253,124.535819
+I2NB,10 years old,N,Acacia mangium,Mangium,37.5,21.5,E,11.591253,124.535819
+I2NB,10 years old,N,Homalanthus populneus,Balanti,6.4,NA,N,11.591253,124.535819
+I2NB,10 years old,N,Ficus nota ,Tibig,5.5,NA,N,11.591253,124.535819
+I2NB,10 years old,N,Acacia mangium,Mangium,32.6,19.2,E,11.591253,124.535819
+I2NB,10 years old,N,Acacia mangium,Mangium,20.9,NA,E,11.591253,124.535819
+I2NB,10 years old,N,Macaranga tanarius (Linn.),Minonga,6.3,NA,N,11.591253,124.535819
+I2NB,10 years old,N,Acacia mangium,Mangium,10.3,NA,E,11.591253,124.535819
+I2NB,10 years old,N,Acacia mangium,Mangium,28.1,NA,E,11.591253,124.535819
+I2NB,10 years old,N,Ficus nota ,Tibig,10.9,NA,N,11.591253,124.535819
+I2NB,10 years old,N,Acacia mangium,Mangium,22,NA,E,11.591253,124.535819
+I2NB,10 years old,N,Macaranga tanarius (Linn.),Minonga,8.1,NA,N,11.591253,124.535819
+I2NB,10 years old,N,Radermachera pinnata,Banai-banai,11.2,NA,N,11.591253,124.535819
+I2NB,10 years old,N,Macaranga tanarius (Linn.),Minonga,6.8,NA,N,11.591253,124.535819
+I2NB,10 years old,N,Acacia mangium,Mangium,29.4,NA,E,11.591253,124.535819
+I2NB,10 years old,N,Acacia mangium,Mangium,25.4,NA,E,11.591253,124.535819
+I2NB,10 years old,N,Acacia mangium,Mangium,31.9,24.1,E,11.591253,124.535819
+I2NB,10 years old,N,Artocarpus blancoi,Antipolo,5.4,NA,N,11.591253,124.535819
+I2NB,10 years old,N,Ficus nota ,Tibig,5.1,NA,N,11.591253,124.535819
+I2NB,10 years old,N,Acacia mangium,Mangium,23.4,NA,E,11.591253,124.535819
+I2NB,10 years old,N,Acacia mangium,Mangium,17.7,NA,E,11.591253,124.535819
+I3SB,10 years old,S,Macaranga tanarius (Linn.),Minonga,14.2,NA,N,11.591689,124.535514
+I3SB,10 years old,S,Acacia mangium,Mangium,25.1,NA,E,11.591689,124.535514
+I3SB,10 years old,S,Acacia mangium,Mangium,19.7,NA,E,11.591689,124.535514
+I3SB,10 years old,S,Hibiscus tiliaceus,Malabago,13.3,NA,N,11.591689,124.535514
+I3SB,10 years old,S,Macaranga tanarius (Linn.),Minonga,11.7,NA,N,11.591689,124.535514
+I3SB,10 years old,S,Macaranga tanarius (Linn.),Minonga,14.3,NA,N,11.591689,124.535514
+I3SB,10 years old,S,Acacia mangium,Mangium,18.3,21.6,E,11.591689,124.535514
+I3SB,10 years old,S,Acacia mangium,Mangium,27.5,26.3,E,11.591689,124.535514
+I3SB,10 years old,S,Acacia mangium,Mangium,35,26.1,E,11.591689,124.535514
+I3SB,10 years old,S,Acacia mangium,Mangium,35.5,24.6,E,11.591689,124.535514
+I3SB,10 years old,S,Macaranga tanarius (Linn.),Minonga,5.6,NA,N,11.591689,124.535514
+I3SB,10 years old,S,Cocos nucifera,Coconut,30.4,21.7,N,11.591689,124.535514
+I3SB,10 years old,S,Acacia mangium,Mangium,25.5,NA,E,11.591689,124.535514
+I3SB,10 years old,S,Acacia mangium,Mangium,20.2,NA,E,11.591689,124.535514
+I3SB,10 years old,S,Acacia mangium,Mangium,35.4,NA,E,11.591689,124.535514
+I3SB,10 years old,S,Macaranga tanarius (Linn.),Minonga,5.3,NA,N,11.591689,124.535514
+I3SB,10 years old,S,Macaranga tanarius (Linn.),Minonga,10.9,NA,N,11.591689,124.535514
+I3SB,10 years old,S,Acacia mangium,Mangium,9.4,NA,E,11.591689,124.535514
+I3SB,10 years old,S,Macaranga tanarius (Linn.),Minonga,5.2,NA,N,11.591689,124.535514
+I3SB,10 years old,S,Macaranga tanarius (Linn.),Minonga,6.4,NA,N,11.591689,124.535514
+I3SB,10 years old,S,Macaranga tanarius (Linn.),Minonga,5.4,NA,N,11.591689,124.535514
+I3SB,10 years old,S,Hibiscus tiliaceus,Malabago,17.3,NA,N,11.591689,124.535514
+I3SB,10 years old,S,Hibiscus tiliaceus,Malabago,11.8,NA,N,11.591689,124.535514
+I3SB,10 years old,S,Hibiscus tiliaceus,Malabago,16.2,NA,N,11.591689,124.535514
+I3SB,10 years old,S,"Musa acuminata, Musa balbisiana (Musa spp.)",Banana,10.8,NA,N,11.591689,124.535514
+I3SB,10 years old,S,"Musa acuminata, Musa balbisiana (Musa spp.)",Banana,6.3,NA,N,11.591689,124.535514
+I3SB,10 years old,S,"Musa acuminata, Musa balbisiana (Musa spp.)",Banana,10.9,NA,N,11.591689,124.535514
+I3SB,10 years old,S,Macaranga tanarius (Linn.),Minonga,9.4,NA,N,11.591689,124.535514
+I3SB,10 years old,S,Hibiscus tiliaceus,Malabago,16.7,NA,N,11.591689,124.535514
+I3SB,10 years old,S,Acacia mangium,Mangium,22.5,24.1,E,11.591689,124.535514
+I3SB,10 years old,S,Ficus congesta,Malatibig,9.3,NA,E,11.591689,124.535514
+I4NB,10 years old,N,Homalanthus populneus?,Balanti,5.4,NA,N,11.59143,124.535482
+I4NB,10 years old,N,Acacia mangium,Mangium,16.4,NA,E,11.59143,124.535482
+I4NB,10 years old,N,Acacia mangium,Mangium,37.1,21.2,E,11.59143,124.535482
+I4NB,10 years old,N,Acacia mangium,Mangium,38.5,23.5,E,11.59143,124.535482
+I4NB,10 years old,N,Macaranga tanarius (Linn.),Minonga,8.5,NA,N,11.59143,124.535482
+I4NB,10 years old,N,Ficus nota ,Tibig,17.5,NA,N,11.59143,124.535482
+I4NB,10 years old,N,Acacia mangium,Mangium,38.8,20.4,E,11.59143,124.535482
+I4NB,10 years old,N,Acacia mangium,Mangium,36.3,25.9,E,11.59143,124.535482
+I4NB,10 years old,N,Acacia mangium,Mangium,34.4,NA,E,11.59143,124.535482
+I4NB,10 years old,N,Macaranga tanarius (Linn.),Minonga,12.7,NA,N,11.59143,124.535482
+I4NB,10 years old,N,Acacia mangium,Mangium,24.4,NA,E,11.59143,124.535482
+I4NB,10 years old,N,Acacia mangium,Mangium,36.4,NA,E,11.59143,124.535482
+I4NB,10 years old,N,Acacia mangium,Mangium,27,NA,E,11.59143,124.535482
+I4NB,10 years old,N,Ficus nota ,Tibig,7,NA,N,11.59143,124.535482
+I4NB,10 years old,N,Acacia mangium,Mangium,21.2,NA,E,11.59143,124.535482
+I4NB,10 years old,N,Acacia mangium,Mangium,20.5,NA,E,11.59143,124.535482
+I4NB,10 years old,N,Acacia mangium,Mangium,27.7,NA,E,11.59143,124.535482
+I4NB,10 years old,N,Acacia mangium,Mangium,28.4,22.3,E,11.59143,124.535482
+I4NB,10 years old,N,Acacia mangium,Mangium,21.1,NA,E,11.59143,124.535482
+I4NB,10 years old,N,Ficus heteropoda,Alangas,13.4,NA,N,11.59143,124.535482
+I4NB,10 years old,N,Acacia mangium,Mangium,20.5,NA,E,11.59143,124.535482
+I4NB,10 years old,N,Acacia mangium,Mangium,15.2,NA,E,11.59143,124.535482
+I4NB,10 years old,N,Acacia mangium,Mangium,27.2,24.5,E,11.59143,124.535482
+O1SB,24 years old,S,Acacia mangium,Mangium,58.6,20,E,11.59324,124.537684
+O1SB,24 years old,S,Artocarpus nitidus (A. lamellosus) ,Kubi,6.2,NA,N,11.59324,124.537684
+O1SB,24 years old,S,Gmelina Arborea,Gmelina Arboria,5.1,NA,E,11.59324,124.537684
+O1SB,24 years old,S,Pterocymbium tinctorium,Taluto,15.1,NA,E,11.59324,124.537684
+O1SB,24 years old,S,Ficus nota ,Tibig,6.4,NA,N,11.59324,124.537684
+O1SB,24 years old,S,Gmelina Arborea,Gmelina Arboria,35.8,18.8,E,11.59324,124.537684
+O1SB,24 years old,S,Commersonia bartramina (L.) Merr.,Suyapao,15.4,NA,N,11.59324,124.537684
+O1SB,24 years old,S,Acacia mangium,Mangium,66,16.6,E,11.59324,124.537684
+O1SB,24 years old,S,Gmelina Arborea,Gmelina Arboria,25.3,15.3,E,11.59324,124.537684
+O1SB,24 years old,S,"Musa acuminata, Musa balbisiana (Musa spp.)",Banana,13.2,NA,N,11.59324,124.537684
+O1SB,24 years old,S,"Musa acuminata, Musa balbisiana (Musa spp.)",Banana,8.2,NA,N,11.59324,124.537684
+O1SB,24 years old,S,Gmelina Arborea,Gmelina Arboria,56.9,NA,E,11.59324,124.537684
+O1SB,24 years old,S,Gmelina Arborea,Gmelina Arboria,8.4,NA,E,11.59324,124.537684
+O1SB,24 years old,S,Acacia mangium,Mangium,44.3,NA,E,11.59324,124.537684
+O1SB,24 years old,S,Acacia mangium,Mangium,78,21,E,11.59324,124.537684
+O1SB,24 years old,S,Gmelina Arborea,Gmelina Arboria,9.7,NA,E,11.59324,124.537684
+O1SB,24 years old,S,Homalanthus populneus,Balanti,6,NA,N,11.59324,124.537684
+O1SB,24 years old,S,Gmelina Arborea,Gmelina Arboria,52.8,15.1,E,11.59324,124.537684
+O1SB,24 years old,S,Gmelina Arborea,Gmelina Arboria,6.2,NA,E,11.59324,124.537684
+O1SB,24 years old,S,Homalanthus populneus,Balanti,6.2,NA,N,11.59324,124.537684
+O1SB,24 years old,S,Homalanthus populneus,Balanti,5.4,NA,N,11.59324,124.537684
+O2NB,24 years old,N,Ficus latsoni,Tangilang Layugan,16.9,NA,N,11.594358,124.538137
+O2NB,24 years old,N,Leucyosyke capitellata,Anagasi,6.2,NA,N,11.594358,124.538137
+O2NB,24 years old,N,Macaranga tanarius (Linn.),Binonga,10.4,NA,N,11.594358,124.538137
+O2NB,24 years old,N,Dendrocnide meyeniana,Lipang kalaban,8.3,NA,N,11.594358,124.538137
+O2NB,24 years old,N,Dendrocnide meyeniana,Lipang kalaban,6.4,NA,N,11.594358,124.538137
+O2NB,24 years old,N,Gmelina Arborea,Gmelina Arboria,29.9,16.7,E,11.594358,124.538137
+O2NB,24 years old,N,Artocarpus nitidus (A. lamellosus) ,Kubi,5.9,NA,N,11.594358,124.538137
+O2NB,24 years old,N,Macaranga tanarius (Linn.),Binonga,5.9,NA,N,11.594358,124.538137
+O2NB,24 years old,N,Leucyosyke capitellata,Anagasi,5.4,NA,N,11.594358,124.538137
+O2NB,24 years old,N,Macaranga tanarius (Linn.),Binonga,5,NA,N,11.594358,124.538137
+O2NB,24 years old,N,Leucyosyke capitellata,Anagasi,9.1,NA,N,11.594358,124.538137
+O2NB,24 years old,N,Leucyosyke capitellata,Anagasi,16.7,NA,N,11.594358,124.538137
+O2NB,24 years old,N,Leucyosyke capitellata,Anagasi,21.9,NA,N,11.594358,124.538137
+O2NB,24 years old,N,Macaranga tanarius (Linn.),Binonga,8.4,NA,N,11.594358,124.538137
+O2NB,24 years old,N,Macaranga tanarius (Linn.),Binonga,6.4,NA,N,11.594358,124.538137
+O2NB,24 years old,N,Macaranga tanarius (Linn.),Binonga,7.5,NA,N,11.594358,124.538137
+O2NB,24 years old,N,Macaranga tanarius (Linn.),Binonga,10.2,NA,N,11.594358,124.538137
+O2NB,24 years old,N,Macaranga tanarius (Linn.),Binonga,6.9,NA,N,11.594358,124.538137
+O2NB,24 years old,N,Gmelina Arborea,Gmelina Arboria,16.9,11.8,E,11.594358,124.538137
+O2NB,24 years old,N,Macaranga tanarius (Linn.),Binonga,5,NA,N,11.594358,124.538137
+O2NB,24 years old,N,Dendrocnide meyeniana,Lipang kalaban,5.2,NA,N,11.594358,124.538137
+O2NB,24 years old,N,Gmelina Arborea,Gmelina Arboria,21.5,17.3,E,11.594358,124.538137
+O2NB,24 years old,N,"Musa acuminata, Musa balbisiana (Musa spp.)",Banana,8.1,NA,N,11.594358,124.538137
+O2NB,24 years old,N,Dendrocnide meyeniana,Lipang kalaban,5.9,NA,N,11.594358,124.538137
+O2NB,24 years old,N,Macaranga tanarius (Linn.),Binonga,5.6,NA,N,11.594358,124.538137
+O2NB,24 years old,N,Gmelina Arborea,Gmelina Arboria,23.9,16.6,E,11.594358,124.538137
+O2NB,24 years old,N,Gmelina Arborea,Gmelina Arboria,20.6,NA,E,11.594358,124.538137
+O2NB,24 years old,N,"Musa acuminata, Musa balbisiana (Musa spp.)",Banana,10.1,NA,N,11.594358,124.538137
+O2NB,24 years old,N,"Musa acuminata, Musa balbisiana (Musa spp.)",Banana,15.4,NA,N,11.594358,124.538137
+O2NB,24 years old,N,"Musa acuminata, Musa balbisiana (Musa spp.)",Banana,15.6,NA,N,11.594358,124.538137
+O2NB,24 years old,N,"Musa acuminata, Musa balbisiana (Musa spp.)",Banana,11.2,NA,N,11.594358,124.538137
+O2NB,24 years old,N,Pipturus arborescens,Dalunot,5.7,NA,N,11.594358,124.538137
+O2NB,24 years old,N,"Musa acuminata, Musa balbisiana (Musa spp.)",Banana,9.9,NA,N,11.594358,124.538137
+O2NB,24 years old,N,"Musa acuminata, Musa balbisiana (Musa spp.)",Banana,7.9,NA,N,11.594358,124.538137
+O2NB,24 years old,N,Macaranga tanarius (Linn.),Binonga,5,NA,N,11.594358,124.538137
+O2NB,24 years old,N,Unknown,Unknown,9.7,NA,,11.594358,124.538137
+O2NB,24 years old,N,Gmelina Arborea,Gmelina Arboria,35.3,16.6,E,11.594358,124.538137
+O2NB,24 years old,N,Macaranga tanarius (Linn.),Binonga,7.2,NA,N,11.594358,124.538137
+O2NB,24 years old,N,Leucyosyke capitellata,Anagasi,5.6,NA,N,11.594358,124.538137
+O2NB,24 years old,N,Gmelina Arborea,Gmelina Arboria,38.9,19.4,E,11.594358,124.538137
+O2NB,24 years old,N,Leucyosyke capitellata,Anagasi,5.3,NA,N,11.594358,124.538137
+O2NB,24 years old,N,Leucyosyke capitellata,Anagasi,8.2,NA,N,11.594358,124.538137
+O2NB,24 years old,N,"Musa acuminata, Musa balbisiana (Musa spp.)",Banana,11,NA,N,11.594358,124.538137
+O2NB,24 years old,N,Pipturus arborescens,Dalunot,5.4,NA,N,11.594358,124.538137
+O2NB,24 years old,N,Pipturus arborescens,Dalunot,6.2,NA,N,11.594358,124.538137
+O2NB,24 years old,N,Ficus heteropoda,Alangas,46.3,NA,N,11.594358,124.538137
+O2NB,24 years old,N,Pipturus arborescens,Dalunot,5.2,NA,N,11.594358,124.538137
+O2NB,24 years old,N,Macaranga tanarius (Linn.),Binonga,9.4,NA,N,11.594358,124.538137
+O3SB,24 years old,S,Acacia mangium,Mangium,5,NA,E,11.59892,124.546225
+O3SB,24 years old,S,Mallotus mollissimus ,Hanom-o,8.7,NA,N,11.59892,124.546225
+O3SB,24 years old,S,Acacia mangium,Mangium,5,NA,E,11.59892,124.546225
+O3SB,24 years old,S,Acacia mangium,Mangium,6.2,NA,E,11.59892,124.546225
+O3SB,24 years old,S,Acacia mangium,Mangium,6.3,NA,E,11.59892,124.546225
+O3SB,24 years old,S,Acacia mangium,Mangium,6.1,NA,E,11.59892,124.546225
+O3SB,24 years old,S,Acacia mangium,Mangium,5.4,NA,E,11.59892,124.546225
+O3SB,24 years old,S,Acacia mangium,Mangium,10.1,NA,E,11.59892,124.546225
+O3SB,24 years old,S,Acacia mangium,Mangium,8.1,NA,E,11.59892,124.546225
+O3SB,24 years old,S,Acacia mangium,Mangium,6.8,NA,E,11.59892,124.546225
+O3SB,24 years old,S,Mallotus mollissimus ,Hanom-o,7.9,NA,N,11.59892,124.546225
+O3SB,24 years old,S,Psydrax dicoccos Gaertn.,Bagosalak,6.9,NA,E,11.59892,124.546225
+O3SB,24 years old,S,Homalanthus populneus,Balanti,7.7,NA,N,11.59892,124.546225
+O3SB,24 years old,S,Radermachera pinnata,Banai-banai,7.9,NA,N,11.59892,124.546225
+O3SB,24 years old,S,Macaranga tanarius (Linn.),Minonga,6.8,NA,N,11.59892,124.546225
+O3SB,24 years old,S,Hibiscus tiliaceus,Malabago,6.7,NA,N,11.59892,124.546225
+O3SB,24 years old,S,Hibiscus tiliaceus,Malabago,9.3,6.4,N,11.59892,124.546225
+O3SB,24 years old,S,Acacia mangium,Mangium,52.5,NA,E,11.59892,124.546225
+O3SB,24 years old,S,Vitex quinate,Kulipapa,13.8,NA,N,11.59892,124.546225
+O3SB,24 years old,S,Commersonia bartramina (L.) Merr.,Suyapao,5.2,NA,N,11.59892,124.546225
+O3SB,24 years old,S,Acacia mangium,Mangium,41.7,35.4,E,11.59892,124.546225
+O3SB,24 years old,S,Breynia vitis-idaea,Tulog-tulog,5.7,NA,N,11.59892,124.546225
+O3SB,24 years old,S,Mallotus mollissimus ,Hanom-o,7.7,NA,N,11.59892,124.546225
+O3SB,24 years old,S,Psydrax dicoccos Gaertn.,Bagosalak,10,NA,E,11.59892,124.546225
+O3SB,24 years old,S,Leucyosyke capitellata,Anagasi,5.7,NA,N,11.59892,124.546225
+O3SB,24 years old,S,Acacia mangium,Mangium,14.4,NA,E,11.59892,124.546225
+O3SB,24 years old,S,Acacia mangium,Mangium,11,NA,E,11.59892,124.546225
+O3SB,24 years old,S,Acacia mangium,Mangium,8.4,NA,E,11.59892,124.546225
+O3SB,24 years old,S,Radermachera pinnata?,Banai-banai,9.6,7.3,N,11.59892,124.546225
+O3SB,24 years old,S,Acacia mangium,Mangium,6.8,NA,E,11.59892,124.546225
+O3SB,24 years old,S,Mallotus mollissimus ,Hanom-o,9.1,NA,N,11.59892,124.546225
+O3SB,24 years old,S,Homalanthus populneus,Balanti,5.5,NA,N,11.59892,124.546225
+O3SB,24 years old,S,Homalanthus populneus,Balanti,6.3,NA,N,11.59892,124.546225
+O3SB,24 years old,S,Alstonia scholaris,Dita,5.5,NA,N,11.59892,124.546225
+O3SB,24 years old,S,Mallotus mollissimus ,Hanom-o,6.2,NA,N,11.59892,124.546225
+O3SB,24 years old,S,Psydrax dicoccos Gaertn.,Bagosalak,10.3,NA,E,11.59892,124.546225
+O3SB,24 years old,S,Radermachera pinnata,Banai-banai,13.8,10.3,N,11.59892,124.546225
+O3SB,24 years old,S,Acacia mangium,Mangium,37.9,NA,E,11.59892,124.546225
+O3SB,24 years old,S,Artocarpus blancoi,Antipolo,5.2,NA,N,11.59892,124.546225
+O3SB,24 years old,S,Acacia mangium,Mangium,5.7,NA,E,11.59892,124.546225
+O3SB,24 years old,S,Acacia mangium,Mangium,7.5,9.3,E,11.59892,124.546225
+O3SB,24 years old,S,Acacia mangium,Mangium,8.9,11.3,E,11.59892,124.546225
+O3SB,24 years old,S,Acacia mangium,Mangium,8.2,NA,E,11.59892,124.546225
+O4NB,24 years old,N,Leucaena leucocephala?,Ipil ipil,30.5,10.9,E,11.598297,124.5453
+O4NB,24 years old,N,Mallotus mollissimus ,Hanom-o,34.2,NA,N,11.598297,124.5453
+O4NB,24 years old,N,Mallotus mollissimus ,Hanom-o,6.3,NA,N,11.598297,124.5453
+O4NB,24 years old,N,Macaranga tanarius (Linn.),Minonga,8.9,NA,N,11.598297,124.5453
+O4NB,24 years old,N,Homalanthus populneus,Balanti,5.7,NA,N,11.598297,124.5453
+O4NB,24 years old,N,Artocarpus blancoi,Antipolo,5.1,NA,N,11.598297,124.5453
+O4NB,24 years old,N,Cocos nucifera,Coconut,22.7,14,N,11.598297,124.5453
+O4NB,24 years old,N,Alstonia scholaris,Dita,6.5,NA,N,11.598297,124.5453
+O4NB,24 years old,N,Leucaena leucocephala,Ipil ipil,5.3,NA,E,11.598297,124.5453
+O4NB,24 years old,N,Macaranga tanarius (Linn.),Minonga,20.3,NA,N,11.598297,124.5453
+O4NB,24 years old,N,Cocos nucifera,Coconut,29.7,9.4,N,11.598297,124.5453
+O4NB,24 years old,N,Mallotus mollissimus ,Hanom-o,6.2,NA,N,11.598297,124.5453
+O4NB,24 years old,N,Leucaena leucocephala,Ipil ipil,9,NA,E,11.598297,124.5453
+O4NB,24 years old,N,Leucaena leucocephala,Ipil ipil,10.1,NA,E,11.598297,124.5453
+O4NB,24 years old,N,Macaranga tanarius (Linn.),Minonga,35.5,NA,N,11.598297,124.5453
+O4NB,24 years old,N,Artocarpus blancoi,Antipolo,5.5,NA,N,11.598297,124.5453
+O4NB,24 years old,N,Macaranga tanarius (Linn.),Minonga,6.9,NA,N,11.598297,124.5453
+O4NB,24 years old,N,Alstonia scholaris,Dita,5.7,NA,N,11.598297,124.5453
+O4NB,24 years old,N,Alstonia scholaris,Dita,5.3,NA,N,11.598297,124.5453
+O4NB,24 years old,N,Macaranga tanarius (Linn.),Minonga,14.9,NA,N,11.598297,124.5453
+O4NB,24 years old,N,Artocarpus nitidus (A. lamellosus) ,Kubi,7.1,NA,N,11.598297,124.5453
+O4NB,24 years old,N,Artocarpus nitidus (A. lamellosus) ,Kubi,6.5,NA,N,11.598297,124.5453
+O4NB,24 years old,N,Mallotus mollissimus ,Hanom-o,23.5,11.5,N,11.598297,124.5453
+O4NB,24 years old,N,Mallotus mollissimus ,Hanom-o,11.2,12.5,N,11.598297,124.5453
+O4NB,24 years old,N,Artocarpus blancoi,Antipolo,16.7,12.8,N,11.598297,124.5453
+O4NB,24 years old,N,Acacia mangium,Mangium,60.5,11.3,E,11.598297,124.5453
+O4NB,24 years old,N,Homalanthus populneus,Balanti,6.5,NA,N,11.598297,124.5453
+O4NB,24 years old,N,Pipturus arborescens,Dalunot,5.8,NA,N,11.598297,124.5453
+O4NB,24 years old,N,Artocarpus blancoi,Antipolo,16.7,NA,N,11.598297,124.5453
+R1SB,Remnant,S,Ficus pseudopalma,Lubi lubi palm,11.2,NA,N,11.598539,124.538384
+R1SB,Remnant,S,Myristica philippinensis,Duguan,11.2,NA,N,11.598539,124.538384
+R1SB,Remnant,S,Sindora Supa,Supa,9.8,NA,N,11.598539,124.538384
+R1SB,Remnant,S,Cinnamomum mercadoi,Kalingan,10,NA,N,11.598539,124.538384
+R1SB,Remnant,S,Caryota rumphiana,Pugahan,30,29.9,E,11.598539,124.538384
+R1SB,Remnant,S,Cinnamomum mercadoi,Kalingan,9,NA,N,11.598539,124.538384
+R1SB,Remnant,S,Lithocarpus celebicus,Ulaian,22.7,NA,N,11.598539,124.538384
+R1SB,Remnant,S,Diplodiscus paniculatus,Balubo,8.4,NA,N,11.598539,124.538384
+R1SB,Remnant,S,Sindora Supa,Supa,14.2,NA,N,11.598539,124.538384
+R1SB,Remnant,S,Diospyros blancoi,Kamagong,11.2,NA,N,11.598539,124.538384
+R1SB,Remnant,S,Shorea contorta,Lauan,13.9,NA,N,11.598539,124.538384
+R1SB,Remnant,S,Cinnamomum mercadoi,Kalingan,9.8,NA,N,11.598539,124.538384
+R1SB,Remnant,S,Cinnamomum mercadoi,Kalingan,14.2,NA,N,11.598539,124.538384
+R1SB,Remnant,S,Ficus variegata,Tangisang bayawak,6.2,NA,E,11.598539,124.538384
+R1SB,Remnant,S,Vitex quinate,Kulipapa,6.9,NA,N,11.598539,124.538384
+R1SB,Remnant,S,Vitex quinate,Kulipapa,7.7,NA,N,11.598539,124.538384
+R1SB,Remnant,S,Ficus pseudopalma,Lubi lubi palm,11.3,NA,N,11.598539,124.538384
+R1SB,Remnant,S,Pipturus arborescens,Dalunot,9.1,NA,N,11.598539,124.538384
+R1SB,Remnant,S,Sindora Supa,Supa,5.8,NA,N,11.598539,124.538384
+R1SB,Remnant,S,Vitex quinate,Kulipapa,9.9,NA,N,11.598539,124.538384
+R1SB,Remnant,S,Ficus pseudopalma,Lubi lubi palm,10.2,NA,N,11.598539,124.538384
+R1SB,Remnant,S,Lithocarpus celebicus,Ulaian,14.1,NA,N,11.598539,124.538384
+R1SB,Remnant,S,Ficus pseudopalma,Lubi lubi palm,13,NA,N,11.598539,124.538384
+R1SB,Remnant,S,Lithocarpus celebicus,Ulaian,29,17.4,N,11.598539,124.538384
+R1SB,Remnant,S,Ficus pseudopalma,Lubi lubi palm,6.5,NA,N,11.598539,124.538384
+R1SB,Remnant,S,Ficus pseudopalma,Lubi lubi palm,10.12,NA,N,11.598539,124.538384
+R1SB,Remnant,S,Ficus pseudopalma,Lubi lubi palm,12.8,NA,N,11.598539,124.538384
+R1SB,Remnant,S,Ficus pseudopalma,Lubi lubi palm,18.1,NA,N,11.598539,124.538384
+R1SB,Remnant,S,Ficus pseudopalma,Lubi lubi palm,10.8,NA,N,11.598539,124.538384
+R1SB,Remnant,S,Calophyllum blancoi,Bitang hol,7,NA,N,11.598539,124.538384
+R1SB,Remnant,S,Ficus pseudopalma,Lubi lubi palm,6.3,NA,N,11.598539,124.538384
+R1SB,Remnant,S,Lithocarpus celebicus,Ulaian,15.6,NA,N,11.598539,124.538384
+R1SB,Remnant,S,Ficus pseudopalma,Lubi lubi palm,12.1,NA,N,11.598539,124.538384
+R1SB,Remnant,S,Ficus pseudopalma,Lubi lubi palm,7.6,NA,N,11.598539,124.538384
+R1SB,Remnant,S,Ficus pseudopalma,Lubi lubi palm,13.4,NA,N,11.598539,124.538384
+R1SB,Remnant,S,Glochidion camiguinense ,Bunot,10.4,NA,N,11.598539,124.538384
+R1SB,Remnant,S,Radermachera pinnata,Banai-banai,14.7,NA,N,11.598539,124.538384
+R1SB,Remnant,S,Polyscias nodosa ,Malapapaya,5,NA,N,11.598539,124.538384
+R1SB,Remnant,S,Glochidion camiguinense ,Bunot,12,NA,N,11.598539,124.538384
+R1SB,Remnant,S,Vitex quinate,Kulipapa,9.5,NA,N,11.598539,124.538384
+R1SB,Remnant,S,Ficus pseudopalma,Lubi lubi palm,6.8,NA,N,11.598539,124.538384
+R1SB,Remnant,S,Lithocarpus celebicus,Ulaian,32.3,16.1,N,11.598539,124.538384
+R1SB,Remnant,S,Alstonia scholaris,Dita,9.2,NA,N,11.598539,124.538384
+R1SB,Remnant,S,Vitex quinate,Kulipapa,13.7,NA,N,11.598539,124.538384
+R1SB,Remnant,S,Ficus pseudopalma,Lubi lubi palm,8.5,NA,N,11.598539,124.538384
+R1SB,Remnant,S,Lithocarpus celebicus,Ulaian,38.8,18.8,N,11.598539,124.538384
+R1SB,Remnant,S,Vitex quinate,Kulipapa,9.6,NA,N,11.598539,124.538384
+R1SB,Remnant,S,Glochidion camiguinense ,Bunot,21.9,NA,N,11.598539,124.538384
+R1SB,Remnant,S,Lithocarpus celebicus,Ulaian,8.1,NA,N,11.598539,124.538384
+R1SB,Remnant,S,Lithocarpus celebicus,Ulaian,22.8,NA,N,11.598539,124.538384
+R1SB,Remnant,S,Lithocarpus celebicus,Ulaian,6.1,NA,N,11.598539,124.538384
+R1SB,Remnant,S,Lithocarpus celebicus,Ulaian,7.9,NA,N,11.598539,124.538384
+R1SB,Remnant,S,Lithocarpus celebicus,Ulaian,43.3,NA,N,11.598539,124.538384
+R1SB,Remnant,S,Cratoxylum sumatranum,Paguringon,6.2,NA,N,11.598539,124.538384
+R1SB,Remnant,S,Morinda citrifolia,Nino,9.9,NA,N,11.598539,124.538384
+R1SB,Remnant,S,Lithocarpus celebicus,Ulaian,32.1,17.5,N,11.598539,124.538384
+R1SB,Remnant,S,Morinda citrifolia,Nino,5.6,NA,N,11.598539,124.538384
+R1SB,Remnant,S,Vitex quinate,Kulipapa,7,NA,N,11.598539,124.538384
+R1SB,Remnant,S,Vitex quinate,Kulipapa,9.6,NA,N,11.598539,124.538384
+R1SB,Remnant,S,Calophyllum blancoi,Bitang hol,7.8,NA,N,11.598539,124.538384
+R1SB,Remnant,S,Lithocarpus celebicus,Ulaian,10.2,NA,N,11.598539,124.538384
+R1SB,Remnant,S,Vitex quinate,Kulipapa,9.1,NA,N,11.598539,124.538384
+R1SB,Remnant,S,Lithocarpus celebicus,Ulaian,28.3,16.93,N,11.598539,124.538384
+R1SB,Remnant,S,Lithocarpus celebicus,Ulaian,12.2,NA,N,11.598539,124.538384
+R1SB,Remnant,S,Myristica philippinensis,Duguan,13.1,NA,N,11.598539,124.538384
+R2NB,Remnant,N,"Musa acuminata, Musa balbisiana (Musa spp.)",Banana,13.7,NA,N,11.598478,124.539405
+R2NB,Remnant,N,"Musa acuminata, Musa balbisiana (Musa spp.)",Banana,18,NA,N,11.598478,124.539405
+R2NB,Remnant,N,"Musa acuminata, Musa balbisiana (Musa spp.)",Banana,12.2,NA,N,11.598478,124.539405
+R2NB,Remnant,N,"Musa acuminata, Musa balbisiana (Musa spp.)",Banana,5.8,NA,N,11.598478,124.539405
+R2NB,Remnant,N,Leucyosyke capitellata,Anagasi,13.1,NA,N,11.598478,124.539405
+R2NB,Remnant,N,Pipturus arborescens,Dalunot,9.5,NA,N,11.598478,124.539405
+R2NB,Remnant,N,Dendrocnide meyeniana,Lipang kalaban,17.4,4.8,N,11.598478,124.539405
+R2NB,Remnant,N,Pipturus arborescens,Dalunot,6.2,NA,N,11.598478,124.539405
+R2NB,Remnant,N,Dendrocnide meyeniana,Lipang kalaban,7.6,NA,N,11.598478,124.539405
+R2NB,Remnant,N,Pipturus arborescens,Dalunot,9.6,NA,N,11.598478,124.539405
+R2NB,Remnant,N,Pipturus arborescens,Dalunot,7.7,NA,N,11.598478,124.539405
+R2NB,Remnant,N,Pipturus arborescens,Dalunot,5.2,NA,N,11.598478,124.539405
+R2NB,Remnant,N,Dendrocnide meyeniana,Lipang kalaban,8.7,NA,N,11.598478,124.539405
+R2NB,Remnant,N,Dendrocnide meyeniana,Lipang kalaban,6.1,NA,N,11.598478,124.539405
+R2NB,Remnant,N,Pipturus arborescens,Dalunot,6.5,NA,N,11.598478,124.539405
+R2NB,Remnant,N,Radermachera pinnata,Banai-banai,21.5,NA,N,11.598478,124.539405
+R2NB,Remnant,N,Pipturus arborescens,Dalunot,9.7,NA,N,11.598478,124.539405
+R2NB,Remnant,N,Pipturus arborescens,Dalunot,8.2,NA,N,11.598478,124.539405
+R2NB,Remnant,N,Caryota rumphiana,Pugahan,10.5,NA,E,11.598478,124.539405
+R2NB,Remnant,N,Pipturus arborescens,Dalunot,7,NA,N,11.598478,124.539405
+R2NB,Remnant,N,Radermachera pinnata,Banai-banai,8.6,NA,N,11.598478,124.539405
+R2NB,Remnant,N,Dendrocnide meyeniana,Lipang kalaban,7,NA,N,11.598478,124.539405
+R2NB,Remnant,N,Radermachera pinnata,Banai-banai,8.3,NA,N,11.598478,124.539405
+R2NB,Remnant,N,Pipturus arborescens,Dalunot,5.2,NA,N,11.598478,124.539405
+R2NB,Remnant,N,Pipturus arborescens,Dalunot,8.1,NA,N,11.598478,124.539405
+R2NB,Remnant,N,Angiopteris evecta ,Tree fern,5.5,NA,E,11.598478,124.539405
+R2NB,Remnant,N,Fagrea racemosa ,Malacape,7.2,NA,E,11.598478,124.539405
+R2NB,Remnant,N,Pipturus arborescens,Dalunot,6.8,NA,N,11.598478,124.539405
+R2NB,Remnant,N,Pipturus arborescens,Dalunot,16.5,7.2,N,11.598478,124.539405
+R2NB,Remnant,N,Mallotus philippensis,Banato,20.2,7.7,N,11.598478,124.539405
+R2NB,Remnant,N,Ficus heteropoda,Alangas,7.9,8.9,N,11.598478,124.539405
+R2NB,Remnant,N,Ficus pseudopalma,Lubi lubi palm,13.2,6.8,N,11.598478,124.539405
+R2NB,Remnant,N,Lithocarpus celebicus,Ulaian,11.2,NA,N,11.598478,124.539405
+R2NB,Remnant,N,Vitex quinate ,Kulipapa,6,NA,N,11.598478,124.539405
+R2NB,Remnant,N,Garcinia ituman,Ituman,5.3,NA,N,11.598478,124.539405
+R2NB,Remnant,N,Ficus balete,Dakitan (or Pakitan),6.7,NA,N,11.598478,124.539405
+R2NB,Remnant,N,Leea aculeata,Amamali,7.4,NA,N,11.598478,124.539405
+R2NB,Remnant,N,Leucyosyke capitellata,Anagasi,8.8,NA,N,11.598478,124.539405
+R2NB,Remnant,N,Dendrocnide meyeniana,Lipang kalaban,12.5,NA,N,11.598478,124.539405
+R2NB,Remnant,N,"Musa acuminata, Musa balbisiana (Musa spp.)",Banana,8.7,8.7,N,11.598478,124.539405
+R2NB,Remnant,N,Ficus heteropoda,Alangas,18.5,NA,N,11.598478,124.539405
+R3SB,Remnant,S,Ficus ulmifolia,Is is,5.9,NA,N,11.599125,124.544354
+R3SB,Remnant,S,Polyscias nodosa ,Malapapaya,7,NA,N,11.599125,124.544354
+R3SB,Remnant,S,Leucyosyke capitellata,Anagasi,5.9,NA,N,11.599125,124.544354
+R3SB,Remnant,S,Morinda citrifolia,Noni,5.3,NA,E,11.599125,124.544354
+R3SB,Remnant,S,Unknown,Unknown,7.9,NA,,11.599125,124.544354
+R3SB,Remnant,S,Artocarpus blancoi,Antipolo,9.4,NA,N,11.599125,124.544354
+R3SB,Remnant,S,Calamus rotang,Rattan,5.2,NA,E,11.599125,124.544354
+R3SB,Remnant,S,Macaranga tanarius (Linn.),Binonga,10,NA,N,11.599125,124.544354
+R3SB,Remnant,S,Macaranga tanarius (Linn.),Binonga,24.8,NA,N,11.599125,124.544354
+R3SB,Remnant,S,Tabernaemontana pandacaqui,Pandakaki,8.2,NA,E,11.599125,124.544354
+R3SB,Remnant,S,Calamus rotang,Rattan,5.2,NA,E,11.599125,124.544354
+R3SB,Remnant,S,Cocos nucifera,Coconut,31.5,19,N,11.599125,124.544354
+R3SB,Remnant,S,Alstonia scholaris,Dita,5.3,7.7,N,11.599125,124.544354
+R3SB,Remnant,S,Artocarpus nitidus (A. lamellosus) ,Kubi,7.5,NA,N,11.599125,124.544354
+R3SB,Remnant,S,Artocarpus blancoi,Antipolo,70.8,29,N,11.599125,124.544354
+R3SB,Remnant,S,Polyscias nodosa ,Malapapaya,6.7,NA,N,11.599125,124.544354
+R3SB,Remnant,S,Acacia mangium,Mangium,43.5,17,E,11.599125,124.544354
+R3SB,Remnant,S,Morinda citrifolia,Noni,5,NA,E,11.599125,124.544354
+R3SB,Remnant,S,Acacia mangium,Mangium,36.9,17,E,11.599125,124.544354
+R3SB,Remnant,S,Macaranga tanarius (Linn.),Binonga,7.3,NA,N,11.599125,124.544354
+R4NB,Remnant,N,Artocarpus blancoi,Antipolo,21,NA,N,11.59945,124.543657
+R4NB,Remnant,N,Artocarpus blancoi,Antipolo,18.2,NA,N,11.59945,124.543657
+R4NB,Remnant,N,Flueggea flexuosa,Anislag,14.3,NA,N,11.59945,124.543657
+R4NB,Remnant,N,Cocos nucifera,Coconut,29.9,14.7,N,11.59945,124.543657
+R4NB,Remnant,N,Sandoricum vidalii ,Santol,5.1,NA,N,11.59945,124.543657
+R4NB,Remnant,N,Artocarpus nitidus (A. lamellosus) ,Kubi,6.5,NA,N,11.59945,124.543657
+R4NB,Remnant,N,Syzigium huchinsonii,Malatambis,14.2,6.4,N,11.59945,124.543657
+R4NB,Remnant,N,Radermachera pinnata,Banai-banai,16.5,9.1,N,11.59945,124.543657
+R4NB,Remnant,N,Psydrax dicoccos Gaertn.,Bagosalak,9.7,NA,E,11.59945,124.543657
+R4NB,Remnant,N,Flueggea flexuosa,Anislag,26.5,NA,N,11.59945,124.543657
+R4NB,Remnant,N,Caryota rumphiana,Pugahan,6.5,NA,E,11.59945,124.543657
+R4NB,Remnant,N,Syzigium huchinsonii,Malatambis,8.4,NA,N,11.59945,124.543657
+R4NB,Remnant,N,Cananga odorata,Ilang-Ilang,6.5,NA,N,11.59945,124.543657
+R4NB,Remnant,N,Cratoxylum sumatranum,Paguringon,5,NA,N,11.59945,124.543657
+R4NB,Remnant,N,Macaranga tanarius (Linn.),Binonga,15,NA,N,11.59945,124.543657
+R4NB,Remnant,N,Polyscias nodosa ,Malapapaya,6.3,NA,N,11.59945,124.543657
+R4NB,Remnant,N,Polyscias nodosa ,Malapapaya,7.5,NA,N,11.59945,124.543657
+R4NB,Remnant,N,Polyscias nodosa ,Malapapaya,5.2,NA,N,11.59945,124.543657
+R4NB,Remnant,N,Macaranga tanarius (Linn.),Binonga,6,NA,N,11.59945,124.543657
+R4NB,Remnant,N,Radermachera pinnata,Banai-banai,11.7,NA,N,11.59945,124.543657
+R4NB,Remnant,N,Fagrea racemosa ,Malacape,8.5,NA,E,11.59945,124.543657
+R4NB,Remnant,N,Macaranga tanarius (Linn.),Binonga,8,NA,N,11.59945,124.543657
+R4NB,Remnant,N,Artocarpus blancoi,Antipolo,8.5,NA,N,11.59945,124.543657
+R4NB,Remnant,N,Syzigium huchinsonii,Malatambis,6.5,NA,N,11.59945,124.543657
+R4NB,Remnant,N,Polyscias nodosa ,Malapapaya,6.5,NA,N,11.59945,124.543657
+R4NB,Remnant,N,Artocarpus nitidus (A. lamellosus) ,Kubi,6.2,NA,N,11.59945,124.543657
+R4NB,Remnant,N,Homalanthus populneus,Balanti,5.5,NA,N,11.59945,124.543657
+R4NB,Remnant,N,Homalanthus populneus,Balanti,7,NA,N,11.59945,124.543657
+R4NB,Remnant,N,Ficus nota ,Tibig,18,NA,N,11.59945,124.543657
+R4NB,Remnant,N,Ficus congesta,Malatibig,7,NA,E,11.59945,124.543657
+R4NB,Remnant,N,Macaranga tanarius (Linn.),Binonga,7,NA,N,11.59945,124.543657
+R4NB,Remnant,N,Artocarpus nitidus (A. lamellosus) ,Kubi,16.9,NA,N,11.59945,124.543657
+R4NB,Remnant,N,Artocarpus blancoi,Antipolo,17.5,12.5,N,11.59945,124.543657
+R4NB,Remnant,N,Cratoxylum sumatranum,Paguringon,5.8,NA,N,11.59945,124.543657
+R4NB,Remnant,N,Cratoxylum sumatranum,Paguringon,24.5,10.7,N,11.59945,124.543657
+R4NB,Remnant,N,Artocarpus blancoi,Antipolo,27.7,9.2,N,11.59945,124.543657
+R4NB,Remnant,N,Cocos nucifera,Coconut,35,NA,N,11.59945,124.543657
+R4NB,Remnant,N,Polyscias nodosa ,Malapapaya,7.2,NA,N,11.59945,124.543657
+R4NB,Remnant,N,Dendrocnide meyeniana,Lipang kalaban,7.5,NA,N,11.59945,124.543657
+R4NB,Remnant,N,Calophyllum blancoi,Bitang hol,23.5,NA,N,11.59945,124.543657
+R4NB,Remnant,N,Cratoxylum sumatranum,Paguringon,15.5,NA,N,11.59945,124.543657
