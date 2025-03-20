@@ -5,6 +5,7 @@ Analyses of the aboveground biomass are described in the code. Specifically, are
 - Generalised Least Square Models (GLS)
 These are calculated for the biomass of trees obtained from the equation of Chave et al. (2005,2014), with and without the consideration of height (see [publication] for details on calculations and related methodology).
 In addition, LMMs and GLS are calculated for the aboveground biomass calculated through Chave et al. (2014) but without the consideration of dead trees.
+- Plots creation
 
 ## References
 - Chave, J. et al. Tree allometry and improved estimation of carbon stocks and balance in tropical forests. Oecologia 145, 87–99 (2005). 
