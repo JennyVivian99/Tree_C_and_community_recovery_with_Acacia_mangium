@@ -5,6 +5,6 @@ The code contains:
 
 - Linear Mixed Models (LMMs)
 - Generalised Least Square models (GLS)
-- Plot creation
+- Plots creation
 
 ## References
