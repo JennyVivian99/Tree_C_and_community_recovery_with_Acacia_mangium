@@ -1,0 +1,21 @@
+Landcover,Sample__ID,Hill_side,"Number of stems below 5cm DBH, above 2m height in a quarter of the plot",Quarter__dimension__ha,Stems per ha,Average_stems_ha,STD_Stems
+Grassland,G1SB,S,2,0.01,200,100,115.5
+Grassland,G2NB,N,2,0.01,200,,
+Grassland,G3SB,S,0,0.01,0,,
+Grassland,G4NB,N,0,0.01,0,,
+TwoYearsOld,E1SB,S,10,0.01,1000,1075,150.0
+TwoYearsOld,E2NB,N,9,0.01,900,,
+TwoYearsOld,E3SB,S,12,0.01,1200,,
+TwoYearsOld,E4NB,N,12,0.01,1200,,
+TenYearsOld,I1SB,S,62,0.01,6200,2350,2641.3
+TenYearsOld,I2NB,N,19,0.01,1900,,
+TenYearsOld,I3SB,S,4,0.01,400,,
+TenYearsOld,I4NB,N,9,0.01,900,,
+TwentyFourYearsOld,O1SB,S,23,0.01,2300,1675,722.8
+TwentyFourYearsOld,O2NB,N,11,0.01,1100,,
+TwentyFourYearsOld,O3SB,S,23,0.01,2300,,
+TwentyFourYearsOld,O4NB,N,10,0.01,1000,,
+Remnant,R1SB,S,52,0.01,5200,3150,1445.7
+Remnant,R2NB,N,28,0.01,2800,,
+Remnant,R3SB,S,18,0.01,1800,,
+Remnant,R4NB,N,28,0.01,2800,,
