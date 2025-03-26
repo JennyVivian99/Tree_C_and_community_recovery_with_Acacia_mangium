@@ -39,6 +39,28 @@ pair.mod<-pairwise.adonis(distance_matrix,factors=community_matrix$Landcovertype
 # Visualise
 pair.mod
 
+#### Gamma diversity through iNEXT ####
+# iNEXT package for gamma diversity visualisation
+# Load the community matrix (species abundance data)
+community_matrix <- read.csv("TreeSpecies.csv", h=T)
+# Divide in matrixes for each landcover type
+community_matrix1<-community_matrix[,2:4]
+community_matrix2<-community_matrix[,5:8]
+community_matrix3<-community_matrix[,9:12]
+community_matrix4<-community_matrix[,13:16]
+# Combine them in a list
+community_matrix2.0<-list(community_matrix1,community_matrix2,community_matrix3,community_matrix4)
+# Beta diversity matrix calculation
+iNEXTbeta3D(community_matrix2.0,	diversity	= "TD",	q	= c(0,	1,	2),	datatype	= "abundance",
+            base	= "coverage")
+# Save the results for taxonomic richness, q=0
+iNEXTbetaNMDS<-iNEXTbeta3D(community_matrix2.0,datatype = "abundance",diversity = "TD",q = 0)
+# Visualisation of the diversities. In this case, 
+# by framing the landcover types as different datasets, it should be considered
+# the gamma diversity, to see the different community composition among landcover types, and thus 
+# among the datasets.
+ggiNEXTbeta3D(iNEXTbetaNMDS,	type	= 'B')
+
 #### Hills numbers for tree diversity ####
 # Diversity studied is the richness, the Shannon entropy and the inverse of Simpson. For Shannon, the higher the values,
 # the higher is the entropy. For the inverse of Simpson, the higher is the value, the higher is the evenness.
