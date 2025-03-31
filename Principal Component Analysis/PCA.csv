@@ -1,4 +1,4 @@
-Landcovertype,Plot,Hill_Side,SOC(%),Tree_species,Tree_n_per_plot,SOC_stock,TN(%),AP(mg_kg),C_N_Ratio,C_AP_Ratio,pH_field,Cumulative_AGB_Plot_Ha,Air__T,Air__humidity,Soil_T,Soil_h
+Landcovertype,Plot,Hill_Side,SOC(%),Tree_species,Tree_n_per_plot,SOC_stock,TN,AP,CN,CAP,pH,Cumulative_AGB_Plot_Ha,Air_T,Air_humidity,Soil_T,Soil_h
 Grassland,G3SB,S,3.607688084,1,1,33.93988068,0.246,5.93,14.67,6083.79,5,16.07798495,33.9,70.1,31.66666667,77
 2 years old,E1SB,S,3.729295819,1,1,35.08392416,0.249,4.4,14.98,8475.67,5.5,0.125085649,36.5,52.9,32.33333333,67.33333333
 2 years old,E2NB,N,4.115274764,1,6,38.71508046,0.297,6.4,13.86,6430.12,6.033333333,1.279100098,36.7,56.7,29.33333333,31
