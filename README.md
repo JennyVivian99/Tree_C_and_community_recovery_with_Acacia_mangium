@@ -36,6 +36,7 @@ library(corrplot) # For correlation visualisation
 library(multcompView) # To visualise letters over boxplots in ggplot
 library(gridExtra) # To put plots of ggplot in one row
 library(cowplot) # To put plots of ggplot in one row
+library(scales) # To see default colors of ggplot
 ```
 # Useful references:
 
