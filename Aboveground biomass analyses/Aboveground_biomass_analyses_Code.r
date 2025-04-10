@@ -597,9 +597,10 @@ upper_whiskers <- aggregate(Cumulative_AGCarbon_Plot_Ha ~ Landcovertype, data = 
 AGCarbonStock <- merge(AGCarbonStock, upper_whiskers, by = "Landcovertype", suffixes = c("", "_upper"))
 #Calculate the position for the letters
 AGCarbonStock$label_y <- AGCarbonStock$Cumulative_AGCarbon_Plot_Ha_upper + 20
-# Plot
-# colori<-c("green","orange","#ff46a2", "yellow","turquoise")
-# names(colori)<-levels(Soil_data$Landcover)
+# Plot default colors of ggplot to match with SOC plots
+show_col(hue_pal()(5))
+colori<-c("#A3A500","#00BF7D","#00B0F6","#E76BF3")
+names(colori)<-levels(AGCarbonStock$Landcovertype)
 ggplot(AGCarbonStock, aes(x = Landcovertype, y = Cumulative_AGCarbon_Plot_Ha)) +
   geom_boxplot(aes(fill = Landcovertype)) +
   geom_point(aes(fill = Landcovertype), cex = 2, alpha = 0.5, colour = "black", pch = 21, stroke = 1) +
