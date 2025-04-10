@@ -308,7 +308,7 @@ ggplot(Soil_data, aes(x = Landcover, y = SOCStock.tC_ha.)) +
   geom_boxplot(aes(fill = Landcover)) +
   geom_point(aes(fill = Landcover), cex = 2, alpha = 0.5, colour = "black", pch = 21, stroke = 1) +
   geom_text(aes(y = label_y, label = Letters), size = 5) +  # Use merged data, correct y, and Letters column
-  labs(x = "Landcover", y = "SOC t/ha") +
+  labs(x = "Landcover", y = "SOC (t/ha)") +
   theme_classic()+
   theme(axis.title.y = element_text(size=16))
 
@@ -342,7 +342,7 @@ ggplot(Soil_data, aes(x = Landcover, y = SOCStock.tC_ha.)) +
   geom_boxplot(aes(fill = Landcover)) +
   geom_point(aes(fill = Landcover), cex = 2, alpha = 0.5, colour = "black", pch = 21, stroke = 1) +
   geom_text(aes(y = label_y, label = Letters), size = 5) +  # Use merged data, correct y, and Letters column
-  labs(x = "Landcover", y = "SOC t/ha") +
+  labs(x = "Landcover", y = "SOC (t/ha)") +
   theme_classic()+
   scale_fill_manual(values = colori) +
   theme(axis.title.y = element_text(size=16))
