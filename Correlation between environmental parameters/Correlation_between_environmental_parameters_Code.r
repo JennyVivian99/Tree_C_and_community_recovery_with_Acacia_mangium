@@ -6,7 +6,7 @@ pcaplot$Hill_Side<-as.factor(pcaplot$Hill_Side)
 # Test the correlation
 cor(pcaplot[4:12])
 # compute better and see results
-res1<- cor(pcaplot[4:12], method="spearman")
+res<- cor(pcaplot[4:12], method="spearman")
 round(res,2)
 # Display p-values
 res<-rcorr(as.matrix(pcaplot[4:12]),type='spearman')
