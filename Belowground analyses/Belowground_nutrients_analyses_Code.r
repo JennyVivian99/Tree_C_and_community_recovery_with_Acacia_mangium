@@ -301,9 +301,9 @@ upper_whiskers <- aggregate(SOCStock.tC_ha. ~ Landcover, data = Soil_data, FUN =
 Soil_data <- merge(Soil_data, upper_whiskers, by = "Landcover", suffixes = c("", "_upper"))
 #Calculate the position for the letters
 Soil_data$label_y <- Soil_data$SOCStock.tC_ha._upper + 5
-# Plot
-# colori<-c("green","orange","#ff46a2", "yellow","turquoise")
-# names(colori)<-levels(Soil_data$Landcover)
+# Plot with default colors reported explicitly to be sure to match the colors in Aboveground plot (not reporting them brings the same result)
+colori<-c("#F8766D","#A3A500","#00BF7D","#00B0F6","#E76BF3")
+names(colori)<-levels(Soil_data$Landcover)
 ggplot(Soil_data, aes(x = Landcover, y = SOCStock.tC_ha.)) +
   geom_boxplot(aes(fill = Landcover)) +
   geom_point(aes(fill = Landcover), cex = 2, alpha = 0.5, colour = "black", pch = 21, stroke = 1) +
@@ -335,13 +335,14 @@ upper_whiskers <- aggregate(SOCStock.tC_ha. ~ Landcover, data = Soil_data, FUN =
 Soil_data <- merge(Soil_data, upper_whiskers, by = "Landcover", suffixes = c("", "_upper"))
 #Calculate the position for the letters
 Soil_data$label_y <- Soil_data$SOCStock.tC_ha._upper + 5
-# Plot
-# colori<-c("green","orange","#ff46a2", "yellow","turquoise")
-# names(colori)<-levels(Soil_data$Landcover)
+# Plot with default colors reported explicitly to be sure to match the colors in Aboveground plot
+colori<-c("#F8766D","#A3A500","#00BF7D","#00B0F6","#E76BF3")
+names(colori)<-levels(Soil_data$Landcover)
 ggplot(Soil_data, aes(x = Landcover, y = SOCStock.tC_ha.)) +
   geom_boxplot(aes(fill = Landcover)) +
   geom_point(aes(fill = Landcover), cex = 2, alpha = 0.5, colour = "black", pch = 21, stroke = 1) +
   geom_text(aes(y = label_y, label = Letters), size = 5) +  # Use merged data, correct y, and Letters column
   labs(x = "Landcover", y = "SOC t/ha") +
   theme_classic()+
+  scale_fill_manual(values = colori) +
   theme(axis.title.y = element_text(size=16))
