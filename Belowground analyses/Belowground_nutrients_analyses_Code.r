@@ -279,6 +279,8 @@ qqline(residuals_model)
 emmsSpherSOC<-emmeans(data.spatialCor.glsSpher, pairwise ~ Landcover, mode="df.error")
 # See the results
 emmsSpherSOC
+# See summary of best model
+summary(data.spatialCor.glsSpher)
 
 #### SOC Plots ####
 # Load the dataset without converting it into spatial one
