@@ -39,6 +39,39 @@ pair.mod<-pairwise.adonis(distance_matrix,factors=community_matrix$Landcovertype
 # Visualise
 pair.mod
 
+#### Dominant species and contributions to diversity
+# Indicspecies analysis to see indicator  (dominant) species for each landcover type
+# Community matrix (species abundance data)
+community_matrix <- read.csv("TreeSpecies2.csv", h=T)
+# Exclude the plots with zero values, otherwise the PerManova will not work
+community_matrix <- community_matrix[!community_matrix$Plot %in% c("G1SB", "G2NB", "G3SB","G4NB", "E3SB"), ]
+community_matrix
+community_matrix$Landcovertype<-factor(community_matrix$Landcovertype,levels=c("TwoYearsOld","TenYearsold","TwentyfourYearsold","Remnant"))
+# Change names to the Landcover type, to make them more coincise and clear
+levels(community_matrix$Landcovertype)<-c("2 years old","10 years old", "24 years old", "Remnant forest")
+community_matrix
+indval<-multipatt(community_matrix[,3:55],community_matrix$Landcovertype) 
+# Visualise the structure
+summary(indval) 
+# indicators for group 2 years old 
+indicators2<-indicators(community_matrix[,3:55],community_matrix$Landcovertype, "2 years old", max.order=3,At=0.5, Bt=0.2) 
+indicators2 
+# indicators for group 10 years old 
+indicators10<-indicators(community_matrix[,3:55],community_matrix$Landcovertype, "10 years old", max.order=3,At=0.5, Bt=0.2) 
+indicators10 
+# indicators for group 24 years old 
+indicators24<-indicators(community_matrix[,3:55],community_matrix$Landcovertype, "24 years old", max.order=3,At=0.5, Bt=0.2) 
+indicators24 
+# indicators for group Remnant 
+indicatorsR<-indicators(community_matrix[,3:55],community_matrix$Landcovertype, "Remnant forest", max.order=3,At=0.5, Bt=0.2) 
+indicatorsR 
+
+# Simper analysis to see the contribution of each species
+# Do not use the distance matrix, because "SIMPER reads in a community matrix (presence/absence and abundance) 
+# and not a distance matrix. The latter is computed during the procedure. 
+simper_results<-simper(community_matrix[,3:55],community_matrix$Landcovertype,object=c(species,overall), permutations = 999) 
+summary(simper_results)
+
 #### Gamma diversity through iNEXT ####
 # iNEXT package for gamma diversity visualisation
 # Load the community matrix (species abundance data)
