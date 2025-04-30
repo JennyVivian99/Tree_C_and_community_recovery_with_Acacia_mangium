@@ -37,6 +37,7 @@ library(multcompView) # To visualise letters over boxplots in ggplot
 library(gridExtra) # To put plots of ggplot in one row
 library(cowplot) # To put plots of ggplot in one row
 library(scales) # To see default colors of ggplot
+library(indicspecies)
 ```
 # Useful references:
 
@@ -73,6 +74,14 @@ install_github("pmartinezarbizu/pairwiseAdonis/pairwiseAdonis")
 - https://cran.r-project.org/web/packages/MuMIn/MuMIn.pdf
 ## To calculate and see correlations
 - https://www.sthda.com/english/wiki/correlation-matrix-a-quick-start-guide-to-analyze-format-and-visualize-a-correlation-matrix-using-r-software
+## For indicspecies interpretation
+- https://uw.pressbooks.pub/appliedmultivariatestatistics/chapter/isa/
+- https://www.digitalocean.com/community/tutorials/predict-function-in-r
+- https://cran.r-project.org/web/packages/indicspecies/vignettes/IndicatorSpeciesAnalysis.html#the-function-indicators  
+# For simpler analysis (contribution of species in community composition) 
+- Vegan's help file on the simper function is pretty clear, as reported in https://www.researchgate.net/post/Can_SIMPER_vegan_R_analysis_be_done_on_binary_distance_matrices_particularly_those_containing_ASV_data#:~:text=SIMPER%20reads%20in%20a%20community,is%20computed%20during%20the%20procedure
+# For interpretation simper analysis (contribution of each species to community composition) 
+- https://kaiw3.github.io/Multivariate_Data_Tutorial_Core/docs/#section4 
 
 # Summary of the datasets used and located in relative folders
 ```
