@@ -39,8 +39,8 @@ pair.mod<-pairwise.adonis(distance_matrix,factors=community_matrix$Landcovertype
 # Visualise
 pair.mod
 
-#### Dominant species and contributions to diversity
-# Indicspecies analysis to see indicator  (dominant) species for each landcover type
+#### Indicator species and contributions to diversity
+# Indicspecies analysis to see indicator species for each landcover type
 # Community matrix (species abundance data)
 community_matrix <- read.csv("TreeSpecies2.csv", h=T)
 # Exclude the plots with zero values, otherwise the PerManova will not work
