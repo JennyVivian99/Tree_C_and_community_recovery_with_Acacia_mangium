@@ -3,7 +3,7 @@ In this folder are provided the datasets used in [publication].
 Analyses of the tree community are described in the code. Specifically, are present:
 - PerMANOVA
 - NMDS plot
-- Indicspecies (dominant species) and simpler analysis (contribution of each species to tree community composition)
+- Indicspecies (indicator species) and simpler analysis (contribution of each species to tree community composition)
 - Gamma diversity exploration through iNEXT
 - Hill's number calculation
 - Diversity indexes calculations (richness, Shannon, Simpson)
