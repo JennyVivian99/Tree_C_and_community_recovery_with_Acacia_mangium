@@ -236,17 +236,6 @@ AIC(data.spatialCor.glsGaus, model_ACBiomass)
 # has one less df but lower AIC
 
 #### Biomass Contribution Visualisation ####
-# Load the dataset
-BiomassContrPlot<-read.table("BiomassContributionPlot.csv",h=T,sep=",")
-# Check
-summary(BiomassContrPlot)
-# Transform as factor
-BiomassContrPlot$Landcovertype<-factor(BiomassContrPlot$Landcovertype, levels = c("Grassland","2 years old", "10 years old", "24 years old", "Remnant"))
-BiomassContrPlot$Native<-as.factor(BiomassContrPlot$Native)
-BiomassContrPlot$Species<-as.factor(BiomassContrPlot$Species)
-str(BiomassContrPlot)
-
-##test
 # import data
 data <- read.table("GoodPaired_analyses_DBH_BiomassNoCoconut2.csv",h=T,sep=",")
 data
@@ -262,9 +251,9 @@ BiomassContrPlotSummary <- BiomassContrPlot %>%
 # calculate sum of biomass per plot
 # sum native and exotic biomasses
 # calculate proportions of summed biomass/total biomass per plot per N/E
-sum_biomass <- data %>% group_by(Sample__ID) %>% summarise(total_bio = sum(AGB_Total_individual, na.rm=T))
+sum_biomass <- data %>% group_by(Sample__ID) %>% summarise(total_bio = sum(AGB.Chave.2014..kg., na.rm=T))
 
-sum_bio_EN <- data %>% group_by(Sample__ID, Native) %>% summarise(NE_bio = sum(AGB_Total_individual, na.rm=T)) %>% 
+sum_bio_EN <- data %>% group_by(Sample__ID, Native) %>% summarise(NE_bio = sum(AGB.Chave.2014..kg., na.rm=T)) %>% 
   filter(Native == "N" | Native =="E")
 
 # Bring in totals
@@ -308,8 +297,8 @@ ggplot() +geom_bar(data=mangium_contr, aes(x=Landcovertype, y=Average_Contributi
   geom_smooth(data = mean_prop, aes(x=as.numeric(Landcover), y=mean_prop, colour=Native), span = 0.5) + 
   theme_classic()+
   scale_color_manual(labels = c("Exotic","Acacia mangium","Native"), values = c("red", "lightblue", "darkgreen"))+
-  labs(x = "Land cover", y = "Average biomass proportion contribution", 
-       title = "Average biomass Contribution of native and exotic species by land cover",
+  labs(x = "Landcover", y = "Average biomass proportion contribution", 
+       title = "Average biomass Contribution of native and exotic species by landcover",
        fill = "Species origins", 
        colour = "Species origins")
 
@@ -338,10 +327,10 @@ ggplot() +
                 width=0.2, position = position_dodge(0.5)) +
   geom_point(data = mean_prop_filtered, aes(x=Landcover, y=mean_prop, colour=Native), cex=3, position=position_dodge(width=0.3))+
   geom_errorbar(data = mean_prop_filtered, aes(x=Landcover, ymin=mean_prop-sd_prop, ymax=mean_prop+sd_prop, colour=Native), width=0.2, position=position_dodge(width=0.3))+ 
-  geom_smooth(data = mean_prop_filtered, aes(x=as.numeric(Landcover), y=mean_prop, colour=Native), span=0.5) + 
+  geom_smooth(data = mean_prop, aes(x=as.numeric(Landcover), y=mean_prop, colour=Native), span = 0.5) +
   theme_classic() +
   scale_color_manual(labels = c("Exotic","Acacia mangium","Native"), values = c("red", "lightblue", "darkgreen"))+
-  labs(x = "Land cover", y = "Average biomass proportion contribution", 
-       title = "Average biomass Contribution of native and exotic species by land cover",
+  labs(x = "Landcover", y = "Average biomass proportion contribution", 
+       title = "Average biomass Contribution of native and exotic species by landcover",
        fill = "Species origins", 
        colour = "Species origins")
