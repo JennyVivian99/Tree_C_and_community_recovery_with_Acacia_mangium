@@ -102,4 +102,5 @@ read.table("PCA1.csv",h=T,sep=",")
 read.table("BiomassContributionPlot.csv",h=T,sep=",")
 read.table("AcaciaMangiumRelativeBiomassContributionForVisualisation.csv",h=T,sep=",")
 read.table("BiomassContributionNoDeadTrees.csv",h=T,sep=",")
+read.table("C_comparisons.csv",h=T,sep=",")
 ```
