@@ -608,3 +608,89 @@ ggplot(AGCarbonStock, aes(x = Landcovertype, y = Cumulative_AGCarbon_Plot_Ha)) +
   labs(x = "Landcover", y = "Aboveground carbon t/ha") +
   theme_classic()+
   theme(axis.title.y = element_text(size=16))
+
+# Plots for C comparisons
+# Load the data (if not done before)
+AGC_compare <-read.table("C_comparisons.csv",h=T,sep=",")
+# Remove the grassland
+#AGC_compare <- AGC_compare[AGC_compare$Landcovertype != "Grassland", ]
+# Transform into factor
+#AGC_compare$Landcovertype<- factor(AGC_compare$Landcovertype , levels = c("2 years old", "10 years old", "24 years old", "Remnant", "15_yo_China","Unthinned_mangium_Thailand",
+#                                                                          "mangium_invaded_Matos_estimated","average_global_tropical_estimated"))
+AGC_compare
+# Create a new 'PlotCategory' column to define how groups are plotted
+AGC_compare <- AGC_compare %>%
+  mutate(PlotCategory = case_when(
+    # Group these into "Developmental Stages" for line/shadow
+    Landcover %in% c("Grassland", "2 years old", "10 years old", "24 years old") ~ "Developmental Stages",
+    # All other categories are treated as separate points with SD error bars
+    TRUE ~ Landcover
+  )) %>%
+  # Create a transformed time variable for plotting to shorten the gap
+  # For times <= 24, use original time. For time = 60, map it to a new value
+  # (e.g., 24 + (60 - 24) * factor). A factor of 0.1 makes 60 map to 27.6.
+  mutate(Time_Plot = if_else(Time > 24, 24 + (Time - 24) * 0.1, as.numeric(Time)))
+# Calculate summary statistics (mean, SD, and count) for each PlotCategory at each Time_Plot point
+summary_data <- AGC_compare %>%
+  group_by(PlotCategory, Time_Plot) %>% # Group by Time_Plot now
+  summarise(
+    mean_biomass = mean(Biomass, na.rm = TRUE),
+    sd_biomass = sd(Biomass, na.rm = TRUE),
+    n_obs = n(),
+    .groups = 'drop'
+  )
+# Separate data for different plotting styles
+# Categories for a continuous line with ribbon (only "Developmental Stages")
+categories_for_continuous_line <- c("Developmental Stages")
+plot_data_continuous_line <- summary_data %>%
+  filter(PlotCategory %in% categories_for_continuous_line)
+# All other categories will now be points with SD error bars
+plot_data_points_with_sd <- summary_data %>%
+  filter(!PlotCategory %in% categories_for_continuous_line)
+# plot_data_hlines will now be empty as all categories are handled above
+plot_data_hlines <- data.frame(PlotCategory = character(), single_biomass_value = numeric())
+# Plotting with ggplot2
+p <- ggplot() +
+  # Add ribbons for standard deviation (shadows) for continuous lines
+  geom_ribbon(data = plot_data_continuous_line,
+              aes(x = Time_Plot, ymin = mean_biomass - sd_biomass, ymax = mean_biomass + sd_biomass, # Use Time_Plot
+                  fill = PlotCategory),
+              alpha = 0.2) +
+  # Add continuous lines for mean biomass
+  geom_line(data = plot_data_continuous_line,
+            aes(x = Time_Plot, y = mean_biomass, color = PlotCategory), # Use Time_Plot
+            size = 1) +
+  # Add points with SD error bars for all other categories
+  geom_point(data = plot_data_points_with_sd,
+             aes(x = Time_Plot, y = mean_biomass, color = PlotCategory), # Use Time_Plot
+             size = 3, shape = 16) + # Larger point for clarity
+  geom_errorbar(data = plot_data_points_with_sd,
+                aes(x = Time_Plot, ymin = mean_biomass - sd_biomass, ymax = mean_biomass + sd_biomass, # Use Time_Plot
+                    color = PlotCategory),
+                width = 0.5, size = 0.8) + # Width of the error bar caps, thickness of the line
+  # Customizing the plot aesthetics
+  labs(
+    title = "Biomass Over Time by Landcover Category",
+    x = "Time (Years)",
+    y = "Biomass (Cumulative)",
+    color = "Category", # Unified legend title for color
+    fill = "Category"   # Unified legend title for fill
+  ) +
+  theme_minimal() +
+  theme(
+    plot.title = element_text(hjust = 0.5, face = "bold", size = 16),
+    axis.title = element_text(size = 12),
+    axis.text = element_text(size = 10),
+    legend.title = element_text(size = 11, face = "bold"),
+    legend.text = element_text(size = 10),
+    legend.position = "right"
+  ) +
+  expand_limits(y = 0) +
+  # Set x-axis breaks to show all relevant unique time points from your data
+  # Use the transformed Time_Plot for breaks, and original Time for labels
+  scale_x_continuous(
+    breaks = unique(AGC_compare$Time_Plot),
+    labels = unique(AGC_compare$Time)
+  )
+# Print the plot
+p
