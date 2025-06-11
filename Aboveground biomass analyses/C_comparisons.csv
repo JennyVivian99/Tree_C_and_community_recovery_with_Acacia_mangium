@@ -1,0 +1,28 @@
+Landcover,Category,Time,Biomass,Cumulative_AGCarbon_Plot_Ha
+Grassland,1,0,0,0
+Grassland,1,0,0,0
+Grassland,1,0,16.1,7.6
+Grassland,1,0,0,0
+2 years old,1,2,0.1,0
+2 years old,1,2,16.1,7.6
+2 years old,1,2,0,0
+2 years old,1,2,2.1,1
+10 years old,1,10,138.7,65.2
+10 years old,1,10,170.6,80.2
+10 years old,1,10,181.7,85.4
+10 years old,1,10,239.8,112.7
+24 years old,1,24,313.1,147.2
+24 years old,1,24,115.6,54.3
+24 years old,1,24,105.5,49.6
+24 years old,1,24,82.8,38.9
+Remnant,2,60,203.5,95.7
+Remnant,2,60,20.7,9.8
+Remnant,2,60,147.1,69.2
+Remnant,2,60,69.2,32.5
+15_yo_China,3,15,150,0
+15_yo_China,3,15,200,0
+Unthinned_mangium_Thailand,4,23,404.4,0
+Unthinned_mangium_Thailand,4,23,473,0
+mangium_invaded_Matos_estimated,5,60,127.7,60
+average_global_tropical_estimated,6,60,148.9,70
+average_asian_forests_estimated,7,60,190.2,89.4
