@@ -26,13 +26,17 @@ plot(nmds_results)
 data_for_plot <- data.frame(NMDS1 = nmds_results$points[, 1],
                             NMDS2 = nmds_results$points[, 2],
                             Group = community_matrix$Landcovertype)
+# Create color list
+colori<-c("#A3A500","#00BF7D","#00B0F6","#E76BF3")
+names(colori)<-levels(community_matrix$Landcovertype)
 # Create the plot
 ggplot(data_for_plot, aes(x = NMDS1, y = NMDS2, color = community_matrix$Landcovertype)) +
   geom_point(size=3) +
   stat_ellipse(aes(color = community_matrix$Landcovertype), type = "norm", linetype=1, size=1.5) +
-  labs(x = "NMDS1", y = "NMDS2", title = "NMDS Plot of tree communities for each landcover")+theme_bw()+theme(
-    panel.grid.major = element_blank(), 
-    panel.grid.minor = element_blank()
+  scale_color_manual(values = colori) +
+  labs(x = "NMDS1", y = "NMDS2", title = "NMDS Plot of tree communities for each landcover")+
+  theme_bw()+
+  theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank()
   )
 # Post hoc analysis
 pair.mod<-pairwise.adonis(distance_matrix,factors=community_matrix$Landcovertype)
