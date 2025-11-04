@@ -1,3 +1,21 @@
+#### Correlation between H and DBH
+# Note that DBH analyses consider Musa spp. (thus inclueded also in the Basal Area evaluations), but biomass evaluations do not.
+# Trees DBH analysis without grassland
+# Load the data (if not done before)
+DBH_comparisons<-read.table("Heightcomparison.csv",h=T,sep=",")
+# Remove the grasslands observations
+DBH_comparisons <- DBH_comparisons[DBH_comparisons$Landcover != "Grassland", ]
+# Transform into factors
+DBH_comparisons$Landcover<- factor(DBH_comparisons$Landcover , levels = c("2 years old", "10 years old", "24 years old", "Remnant"))
+DBH_comparisons$Hill__side <-as.factor(DBH_comparisons$Hill__side)
+# Check
+summary(DBH_comparisons)
+# Simple linear correlation between DBH and Height
+corr_dbh_h<-lm(DBH_comparisons$DBH..cm. ~DBH_comparisons$Height..m.)
+# Get the summary
+summary(corr_dbh_h)
+# Adjusted R2 retrieved
+corr_value_dbh_h<-0.37
 #### Tree height analysis ####
 # Tree height comparison  without grassland
 # Load the data (if not done before)
