@@ -1,7 +1,7 @@
 # Code for analysis of tree community, above-ground biomass of standing trees and bulk topsoil organic carbon
 
-This code is part of [Acacia mangium monocultures can catalyse the recovery of the tree community and aboveground carbon stock in the Philippines](https://doi.org/10.1016/j.foreco.2025.123357) and was created for the analysis of the tree community, aboveground biomass and soil nutrients of different _Acacia mangium_ plantations, in comparison to reference states of _Imperata cylindrica_ grasslands and remnant forests, all located in the Philippines.
-Data collection methods are described in [Acacia mangium monocultures can catalyse the recovery of the tree community and aboveground carbon stock in the Philippines](https://doi.org/10.1016/j.foreco.2025.123357).
+This code is part of "[Acacia mangium monocultures can catalyse the recovery of the tree community and aboveground carbon stock in the Philippines](https://doi.org/10.1016/j.foreco.2025.123357)" and was created for the analysis of the tree community, aboveground biomass and soil nutrients of different _Acacia mangium_ plantations, in comparison to reference states of _Imperata cylindrica_ grasslands and remnant forests, all located in the Philippines.
+Data collection methods are described in "[Acacia mangium monocultures can catalyse the recovery of the tree community and aboveground carbon stock in the Philippines](https://doi.org/10.1016/j.foreco.2025.123357)".
 
 Analyses are organised in separate folders in which a brief description is provided (README) along with the dataset used.
 
