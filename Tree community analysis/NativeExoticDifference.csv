@@ -1,0 +1,423 @@
+Sample__ID,Landcover,Hill_side,Scientific__name,Common_name_species,Native,Lat_ID,Long_ID
+G1SB,Grassland,S,NA,NA,NA,HIDED,HIDED
+G2NB,Grassland,N,NA,NA,NA,HIDED,HIDED
+G3SB,Grassland,S,Cocos nucifera,Coconut,N,HIDED,HIDED
+G4NB,Grassland,N,NA,NA,NA,HIDED,HIDED
+E1SB,2 years old,S,Acacia mangium,Mangium,E,HIDED,HIDED
+E2NB,2 years old,N,Acacia mangium,Mangium,E,HIDED,HIDED
+E2NB,2 years old,N,Acacia mangium,Mangium,E,HIDED,HIDED
+E2NB,2 years old,N,Acacia mangium,Mangium,E,HIDED,HIDED
+E2NB,2 years old,N,Acacia mangium,Mangium,E,HIDED,HIDED
+E2NB,2 years old,N,Acacia mangium,Mangium,E,HIDED,HIDED
+E2NB,2 years old,N,Acacia mangium,Mangium,E,HIDED,HIDED
+E3SB,2 years old,S,NA,NA,NA,HIDED,HIDED
+E4NB,2 years old,N,Cocos nucifera,Coconut,N,HIDED,HIDED
+E4NB,2 years old,N,Acacia mangium,Mangium,E,HIDED,HIDED
+E4NB,2 years old,N,Acacia auriculiformis,Aure,E,HIDED,HIDED
+E4NB,2 years old,N,Acacia mangium,Mangium,E,HIDED,HIDED
+E4NB,2 years old,N,Acacia mangium,Mangium,E,HIDED,HIDED
+E4NB,2 years old,N,Acacia mangium,Mangium,E,HIDED,HIDED
+I1SB,10 years old,S,Acacia mangium,Mangium,E,HIDED,HIDED
+I1SB,10 years old,S,Acacia mangium,Mangium,E,HIDED,HIDED
+I1SB,10 years old,S,Acacia mangium,Mangium,E,HIDED,HIDED
+I1SB,10 years old,S,Cocos nucifera,Coconut,N,HIDED,HIDED
+I1SB,10 years old,S,Acacia mangium,Mangium,E,HIDED,HIDED
+I1SB,10 years old,S,Acacia mangium,Mangium,E,HIDED,HIDED
+I1SB,10 years old,S,Mallotus mollissimus ,Hanom-o,N,HIDED,HIDED
+I1SB,10 years old,S,Acacia mangium,Mangium,E,HIDED,HIDED
+I1SB,10 years old,S,Trema orientalis,Anabiong,N,HIDED,HIDED
+I1SB,10 years old,S,Acacia mangium,Mangium,E,HIDED,HIDED
+I1SB,10 years old,S,Acacia mangium,Mangium,E,HIDED,HIDED
+I1SB,10 years old,S,Acacia mangium,Mangium,E,HIDED,HIDED
+I1SB,10 years old,S,Acacia mangium,Mangium,E,HIDED,HIDED
+I1SB,10 years old,S,Acacia mangium,Mangium,E,HIDED,HIDED
+I1SB,10 years old,S,Acacia mangium,Mangium,E,HIDED,HIDED
+I1SB,10 years old,S,Acacia mangium,Mangium,E,HIDED,HIDED
+I1SB,10 years old,S,Acacia mangium,Mangium,E,HIDED,HIDED
+I1SB,10 years old,S,Acacia mangium,Mangium,E,HIDED,HIDED
+I2NB,10 years old,N,Acacia mangium,Mangium,E,HIDED,HIDED
+I2NB,10 years old,N,Acacia mangium,Mangium,E,HIDED,HIDED
+I2NB,10 years old,N,Acacia mangium,Mangium,E,HIDED,HIDED
+I2NB,10 years old,N,Acacia mangium,Mangium,E,HIDED,HIDED
+I2NB,10 years old,N,Acacia mangium,Mangium,E,HIDED,HIDED
+I2NB,10 years old,N,Homalanthus populneus,Balanti,N,HIDED,HIDED
+I2NB,10 years old,N,Ficus nota ,Tibig,N,HIDED,HIDED
+I2NB,10 years old,N,Acacia mangium,Mangium,E,HIDED,HIDED
+I2NB,10 years old,N,Acacia mangium,Mangium,E,HIDED,HIDED
+I2NB,10 years old,N,Macaranga tanarius (Linn.),Minonga,N,HIDED,HIDED
+I2NB,10 years old,N,Acacia mangium,Mangium,E,HIDED,HIDED
+I2NB,10 years old,N,Acacia mangium,Mangium,E,HIDED,HIDED
+I2NB,10 years old,N,Ficus nota ,Tibig,N,HIDED,HIDED
+I2NB,10 years old,N,Acacia mangium,Mangium,E,HIDED,HIDED
+I2NB,10 years old,N,Macaranga tanarius (Linn.),Minonga,N,HIDED,HIDED
+I2NB,10 years old,N,Radermachera pinnata,Banai-banai,N,HIDED,HIDED
+I2NB,10 years old,N,Macaranga tanarius (Linn.),Minonga,N,HIDED,HIDED
+I2NB,10 years old,N,Acacia mangium,Mangium,E,HIDED,HIDED
+I2NB,10 years old,N,Acacia mangium,Mangium,E,HIDED,HIDED
+I2NB,10 years old,N,Acacia mangium,Mangium,E,HIDED,HIDED
+I2NB,10 years old,N,Artocarpus blancoi,Antipolo,N,HIDED,HIDED
+I2NB,10 years old,N,Ficus nota ,Tibig,N,HIDED,HIDED
+I2NB,10 years old,N,Acacia mangium,Mangium,E,HIDED,HIDED
+I2NB,10 years old,N,Acacia mangium,Mangium,E,HIDED,HIDED
+I3SB,10 years old,S,Macaranga tanarius (Linn.),Minonga,N,HIDED,HIDED
+I3SB,10 years old,S,Acacia mangium,Mangium,E,HIDED,HIDED
+I3SB,10 years old,S,Acacia mangium,Mangium,E,HIDED,HIDED
+I3SB,10 years old,S,Hibiscus tiliaceus,Malabago,N,HIDED,HIDED
+I3SB,10 years old,S,Macaranga tanarius (Linn.),Minonga,N,HIDED,HIDED
+I3SB,10 years old,S,Macaranga tanarius (Linn.),Minonga,N,HIDED,HIDED
+I3SB,10 years old,S,Acacia mangium,Mangium,E,HIDED,HIDED
+I3SB,10 years old,S,Acacia mangium,Mangium,E,HIDED,HIDED
+I3SB,10 years old,S,Acacia mangium,Mangium,E,HIDED,HIDED
+I3SB,10 years old,S,Acacia mangium,Mangium,E,HIDED,HIDED
+I3SB,10 years old,S,Macaranga tanarius (Linn.),Minonga,N,HIDED,HIDED
+I3SB,10 years old,S,Cocos nucifera,Coconut,N,HIDED,HIDED
+I3SB,10 years old,S,Acacia mangium,Mangium,E,HIDED,HIDED
+I3SB,10 years old,S,Acacia mangium,Mangium,E,HIDED,HIDED
+I3SB,10 years old,S,Acacia mangium,Mangium,E,HIDED,HIDED
+I3SB,10 years old,S,Macaranga tanarius (Linn.),Minonga,N,HIDED,HIDED
+I3SB,10 years old,S,Macaranga tanarius (Linn.),Minonga,N,HIDED,HIDED
+I3SB,10 years old,S,Acacia mangium,Mangium,E,HIDED,HIDED
+I3SB,10 years old,S,Macaranga tanarius (Linn.),Minonga,N,HIDED,HIDED
+I3SB,10 years old,S,Macaranga tanarius (Linn.),Minonga,N,HIDED,HIDED
+I3SB,10 years old,S,Macaranga tanarius (Linn.),Minonga,N,HIDED,HIDED
+I3SB,10 years old,S,Hibiscus tiliaceus,Malabago,N,HIDED,HIDED
+I3SB,10 years old,S,Hibiscus tiliaceus,Malabago,N,HIDED,HIDED
+I3SB,10 years old,S,Hibiscus tiliaceus,Malabago,N,HIDED,HIDED
+I3SB,10 years old,S,"Musa acuminata, Musa balbisiana (Musa spp.)",Banana,N,HIDED,HIDED
+I3SB,10 years old,S,"Musa acuminata, Musa balbisiana (Musa spp.)",Banana,N,HIDED,HIDED
+I3SB,10 years old,S,"Musa acuminata, Musa balbisiana (Musa spp.)",Banana,N,HIDED,HIDED
+I3SB,10 years old,S,Macaranga tanarius (Linn.),Minonga,N,HIDED,HIDED
+I3SB,10 years old,S,Hibiscus tiliaceus,Malabago,N,HIDED,HIDED
+I3SB,10 years old,S,Acacia mangium,Mangium,E,HIDED,HIDED
+I3SB,10 years old,S,Ficus congesta,Malatibig,E,HIDED,HIDED
+I4NB,10 years old,N,Homalanthus populneus?,Balanti,N,HIDED,HIDED
+I4NB,10 years old,N,Acacia mangium,Mangium,E,HIDED,HIDED
+I4NB,10 years old,N,Acacia mangium,Mangium,E,HIDED,HIDED
+I4NB,10 years old,N,Acacia mangium,Mangium,E,HIDED,HIDED
+I4NB,10 years old,N,Macaranga tanarius (Linn.),Minonga,N,HIDED,HIDED
+I4NB,10 years old,N,Ficus nota ,Tibig,N,HIDED,HIDED
+I4NB,10 years old,N,Acacia mangium,Mangium,E,HIDED,HIDED
+I4NB,10 years old,N,Acacia mangium,Mangium,E,HIDED,HIDED
+I4NB,10 years old,N,Acacia mangium,Mangium,E,HIDED,HIDED
+I4NB,10 years old,N,Macaranga tanarius (Linn.),Minonga,N,HIDED,HIDED
+I4NB,10 years old,N,Acacia mangium,Mangium,E,HIDED,HIDED
+I4NB,10 years old,N,Acacia mangium,Mangium,E,HIDED,HIDED
+I4NB,10 years old,N,Acacia mangium,Mangium,E,HIDED,HIDED
+I4NB,10 years old,N,Ficus nota ,Tibig,N,HIDED,HIDED
+I4NB,10 years old,N,Acacia mangium,Mangium,E,HIDED,HIDED
+I4NB,10 years old,N,Acacia mangium,Mangium,E,HIDED,HIDED
+I4NB,10 years old,N,Acacia mangium,Mangium,E,HIDED,HIDED
+I4NB,10 years old,N,Acacia mangium,Mangium,E,HIDED,HIDED
+I4NB,10 years old,N,Acacia mangium,Mangium,E,HIDED,HIDED
+I4NB,10 years old,N,Ficus heteropoda,Alangas,N,HIDED,HIDED
+I4NB,10 years old,N,Acacia mangium,Mangium,E,HIDED,HIDED
+I4NB,10 years old,N,Acacia mangium,Mangium,E,HIDED,HIDED
+I4NB,10 years old,N,Acacia mangium,Mangium,E,HIDED,HIDED
+O1SB,24 years old,S,Acacia mangium,Mangium,E,HIDED,HIDED
+O1SB,24 years old,S,Artocarpus nitidus (A. lamellosus) ,Kubi,N,HIDED,HIDED
+O1SB,24 years old,S,Gmelina Arborea,Gmelina Arboria,E,HIDED,HIDED
+O1SB,24 years old,S,Pterocymbium tinctorium,Taluto,E,HIDED,HIDED
+O1SB,24 years old,S,Ficus nota ,Tibig,N,HIDED,HIDED
+O1SB,24 years old,S,Gmelina Arborea,Gmelina Arboria,E,HIDED,HIDED
+O1SB,24 years old,S,Commersonia bartramina (L.) Merr.,Suyapao,N,HIDED,HIDED
+O1SB,24 years old,S,Acacia mangium,Mangium,E,HIDED,HIDED
+O1SB,24 years old,S,Gmelina Arborea,Gmelina Arboria,E,HIDED,HIDED
+O1SB,24 years old,S,"Musa acuminata, Musa balbisiana (Musa spp.)",Banana,N,HIDED,HIDED
+O1SB,24 years old,S,"Musa acuminata, Musa balbisiana (Musa spp.)",Banana,N,HIDED,HIDED
+O1SB,24 years old,S,Gmelina Arborea,Gmelina Arboria,E,HIDED,HIDED
+O1SB,24 years old,S,Gmelina Arborea,Gmelina Arboria,E,HIDED,HIDED
+O1SB,24 years old,S,Acacia mangium,Mangium,E,HIDED,HIDED
+O1SB,24 years old,S,Acacia mangium,Mangium,E,HIDED,HIDED
+O1SB,24 years old,S,Gmelina Arborea,Gmelina Arboria,E,HIDED,HIDED
+O1SB,24 years old,S,Homalanthus populneus,Balanti,N,HIDED,HIDED
+O1SB,24 years old,S,Gmelina Arborea,Gmelina Arboria,E,HIDED,HIDED
+O1SB,24 years old,S,Gmelina Arborea,Gmelina Arboria,E,HIDED,HIDED
+O1SB,24 years old,S,Homalanthus populneus,Balanti,N,HIDED,HIDED
+O1SB,24 years old,S,Homalanthus populneus,Balanti,N,HIDED,HIDED
+O2NB,24 years old,N,Ficus latsoni,Tangilang Layugan,N,HIDED,HIDED
+O2NB,24 years old,N,Leucyosyke capitellata,Anagasi,N,HIDED,HIDED
+O2NB,24 years old,N,Macaranga tanarius (Linn.),Binonga,N,HIDED,HIDED
+O2NB,24 years old,N,Dendrocnide meyeniana,Lipang kalaban,N,HIDED,HIDED
+O2NB,24 years old,N,Dendrocnide meyeniana,Lipang kalaban,N,HIDED,HIDED
+O2NB,24 years old,N,Gmelina Arborea,Gmelina Arboria,E,HIDED,HIDED
+O2NB,24 years old,N,Artocarpus nitidus (A. lamellosus) ,Kubi,N,HIDED,HIDED
+O2NB,24 years old,N,Macaranga tanarius (Linn.),Binonga,N,HIDED,HIDED
+O2NB,24 years old,N,Leucyosyke capitellata,Anagasi,N,HIDED,HIDED
+O2NB,24 years old,N,Macaranga tanarius (Linn.),Binonga,N,HIDED,HIDED
+O2NB,24 years old,N,Leucyosyke capitellata,Anagasi,N,HIDED,HIDED
+O2NB,24 years old,N,Leucyosyke capitellata,Anagasi,N,HIDED,HIDED
+O2NB,24 years old,N,Leucyosyke capitellata,Anagasi,N,HIDED,HIDED
+O2NB,24 years old,N,Macaranga tanarius (Linn.),Binonga,N,HIDED,HIDED
+O2NB,24 years old,N,Macaranga tanarius (Linn.),Binonga,N,HIDED,HIDED
+O2NB,24 years old,N,Macaranga tanarius (Linn.),Binonga,N,HIDED,HIDED
+O2NB,24 years old,N,Macaranga tanarius (Linn.),Binonga,N,HIDED,HIDED
+O2NB,24 years old,N,Macaranga tanarius (Linn.),Binonga,N,HIDED,HIDED
+O2NB,24 years old,N,Gmelina Arborea,Gmelina Arboria,E,HIDED,HIDED
+O2NB,24 years old,N,Macaranga tanarius (Linn.),Binonga,N,HIDED,HIDED
+O2NB,24 years old,N,Dendrocnide meyeniana,Lipang kalaban,N,HIDED,HIDED
+O2NB,24 years old,N,Gmelina Arborea,Gmelina Arboria,E,HIDED,HIDED
+O2NB,24 years old,N,"Musa acuminata, Musa balbisiana (Musa spp.)",Banana,N,HIDED,HIDED
+O2NB,24 years old,N,Dendrocnide meyeniana,Lipang kalaban,N,HIDED,HIDED
+O2NB,24 years old,N,Macaranga tanarius (Linn.),Binonga,N,HIDED,HIDED
+O2NB,24 years old,N,Gmelina Arborea,Gmelina Arboria,E,HIDED,HIDED
+O2NB,24 years old,N,Gmelina Arborea,Gmelina Arboria,E,HIDED,HIDED
+O2NB,24 years old,N,"Musa acuminata, Musa balbisiana (Musa spp.)",Banana,N,HIDED,HIDED
+O2NB,24 years old,N,"Musa acuminata, Musa balbisiana (Musa spp.)",Banana,N,HIDED,HIDED
+O2NB,24 years old,N,"Musa acuminata, Musa balbisiana (Musa spp.)",Banana,N,HIDED,HIDED
+O2NB,24 years old,N,"Musa acuminata, Musa balbisiana (Musa spp.)",Banana,N,HIDED,HIDED
+O2NB,24 years old,N,Pipturus arborescens,Dalunot,N,HIDED,HIDED
+O2NB,24 years old,N,"Musa acuminata, Musa balbisiana (Musa spp.)",Banana,N,HIDED,HIDED
+O2NB,24 years old,N,"Musa acuminata, Musa balbisiana (Musa spp.)",Banana,N,HIDED,HIDED
+O2NB,24 years old,N,Macaranga tanarius (Linn.),Binonga,N,HIDED,HIDED
+O2NB,24 years old,N,Unknown,Unknown,NA,HIDED,HIDED
+O2NB,24 years old,N,Gmelina Arborea,Gmelina Arboria,E,HIDED,HIDED
+O2NB,24 years old,N,Macaranga tanarius (Linn.),Binonga,N,HIDED,HIDED
+O2NB,24 years old,N,Leucyosyke capitellata,Anagasi,N,HIDED,HIDED
+O2NB,24 years old,N,Gmelina Arborea,Gmelina Arboria,E,HIDED,HIDED
+O2NB,24 years old,N,Leucyosyke capitellata,Anagasi,N,HIDED,HIDED
+O2NB,24 years old,N,Leucyosyke capitellata,Anagasi,N,HIDED,HIDED
+O2NB,24 years old,N,"Musa acuminata, Musa balbisiana (Musa spp.)",Banana,N,HIDED,HIDED
+O2NB,24 years old,N,Pipturus arborescens,Dalunot,N,HIDED,HIDED
+O2NB,24 years old,N,Pipturus arborescens,Dalunot,N,HIDED,HIDED
+O2NB,24 years old,N,Ficus heteropoda,Alangas,N,HIDED,HIDED
+O2NB,24 years old,N,Pipturus arborescens,Dalunot,N,HIDED,HIDED
+O2NB,24 years old,N,Macaranga tanarius (Linn.),Binonga,N,HIDED,HIDED
+O3SB,24 years old,S,Acacia mangium,Mangium,E,HIDED,HIDED
+O3SB,24 years old,S,Mallotus mollissimus ,Hanom-o,N,HIDED,HIDED
+O3SB,24 years old,S,Acacia mangium,Mangium,E,HIDED,HIDED
+O3SB,24 years old,S,Acacia mangium,Mangium,E,HIDED,HIDED
+O3SB,24 years old,S,Acacia mangium,Mangium,E,HIDED,HIDED
+O3SB,24 years old,S,Acacia mangium,Mangium,E,HIDED,HIDED
+O3SB,24 years old,S,Acacia mangium,Mangium,E,HIDED,HIDED
+O3SB,24 years old,S,Acacia mangium,Mangium,E,HIDED,HIDED
+O3SB,24 years old,S,Acacia mangium,Mangium,E,HIDED,HIDED
+O3SB,24 years old,S,Acacia mangium,Mangium,E,HIDED,HIDED
+O3SB,24 years old,S,Mallotus mollissimus ,Hanom-o,N,HIDED,HIDED
+O3SB,24 years old,S,Psydrax dicoccos Gaertn.,Bagosalak,E,HIDED,HIDED
+O3SB,24 years old,S,Homalanthus populneus,Balanti,N,HIDED,HIDED
+O3SB,24 years old,S,Radermachera pinnata,Banai-banai,N,HIDED,HIDED
+O3SB,24 years old,S,Macaranga tanarius (Linn.),Minonga,N,HIDED,HIDED
+O3SB,24 years old,S,Hibiscus tiliaceus,Malabago,N,HIDED,HIDED
+O3SB,24 years old,S,Hibiscus tiliaceus,Malabago,N,HIDED,HIDED
+O3SB,24 years old,S,Acacia mangium,Mangium,E,HIDED,HIDED
+O3SB,24 years old,S,Vitex quinate ,Kulipapa,N,HIDED,HIDED
+O3SB,24 years old,S,Commersonia bartramina (L.) Merr.,Suyapao,N,HIDED,HIDED
+O3SB,24 years old,S,Acacia mangium,Mangium,E,HIDED,HIDED
+O3SB,24 years old,S,Breynia vitis-idaea,Tulog-tulog,N,HIDED,HIDED
+O3SB,24 years old,S,Mallotus mollissimus ,Hanom-o,N,HIDED,HIDED
+O3SB,24 years old,S,Psydrax dicoccos Gaertn.,Bagosalak,E,HIDED,HIDED
+O3SB,24 years old,S,Leucyosyke capitellata,Anagasi,N,HIDED,HIDED
+O3SB,24 years old,S,Acacia mangium,Mangium,E,HIDED,HIDED
+O3SB,24 years old,S,Acacia mangium,Mangium,E,HIDED,HIDED
+O3SB,24 years old,S,Acacia mangium,Mangium,E,HIDED,HIDED
+O3SB,24 years old,S,Radermachera pinnata?,Banai-banai,N,HIDED,HIDED
+O3SB,24 years old,S,Acacia mangium,Mangium,E,HIDED,HIDED
+O3SB,24 years old,S,Mallotus mollissimus ,Hanom-o,N,HIDED,HIDED
+O3SB,24 years old,S,Homalanthus populneus,Balanti,N,HIDED,HIDED
+O3SB,24 years old,S,Homalanthus populneus,Balanti,N,HIDED,HIDED
+O3SB,24 years old,S,Alstonia scholaris,Dita,N,HIDED,HIDED
+O3SB,24 years old,S,Mallotus mollissimus ,Hanom-o,N,HIDED,HIDED
+O3SB,24 years old,S,Psydrax dicoccos Gaertn.,Bagosalak,E,HIDED,HIDED
+O3SB,24 years old,S,Radermachera pinnata,Banai-banai,N,HIDED,HIDED
+O3SB,24 years old,S,Acacia mangium,Mangium,E,HIDED,HIDED
+O3SB,24 years old,S,Artocarpus blancoi,Antipolo,N,HIDED,HIDED
+O3SB,24 years old,S,Acacia mangium,Mangium,E,HIDED,HIDED
+O3SB,24 years old,S,Acacia mangium,Mangium,E,HIDED,HIDED
+O3SB,24 years old,S,Acacia mangium,Mangium,E,HIDED,HIDED
+O3SB,24 years old,S,Acacia mangium,Mangium,E,HIDED,HIDED
+O4NB,24 years old,N,Leucaena leucocephala?,Ipil ipil,E,HIDED,HIDED
+O4NB,24 years old,N,Mallotus mollissimus ,Hanom-o,N,HIDED,HIDED
+O4NB,24 years old,N,Mallotus mollissimus ,Hanom-o,N,HIDED,HIDED
+O4NB,24 years old,N,Macaranga tanarius (Linn.),Minonga,N,HIDED,HIDED
+O4NB,24 years old,N,Homalanthus populneus,Balanti,N,HIDED,HIDED
+O4NB,24 years old,N,Artocarpus blancoi,Antipolo,N,HIDED,HIDED
+O4NB,24 years old,N,Cocos nucifera,Coconut,N,HIDED,HIDED
+O4NB,24 years old,N,Alstonia scholaris,Dita,N,HIDED,HIDED
+O4NB,24 years old,N,Leucaena leucocephala,Ipil ipil,E,HIDED,HIDED
+O4NB,24 years old,N,Macaranga tanarius (Linn.),Minonga,N,HIDED,HIDED
+O4NB,24 years old,N,Cocos nucifera,Coconut,N,HIDED,HIDED
+O4NB,24 years old,N,Mallotus mollissimus ,Hanom-o,N,HIDED,HIDED
+O4NB,24 years old,N,Leucaena leucocephala,Ipil ipil,E,HIDED,HIDED
+O4NB,24 years old,N,Leucaena leucocephala,Ipil ipil,E,HIDED,HIDED
+O4NB,24 years old,N,Macaranga tanarius (Linn.),Minonga,N,HIDED,HIDED
+O4NB,24 years old,N,Artocarpus blancoi,Antipolo,N,HIDED,HIDED
+O4NB,24 years old,N,Macaranga tanarius (Linn.),Minonga,N,HIDED,HIDED
+O4NB,24 years old,N,Alstonia scholaris,Dita,N,HIDED,HIDED
+O4NB,24 years old,N,Alstonia scholaris,Dita,N,HIDED,HIDED
+O4NB,24 years old,N,Macaranga tanarius (Linn.),Minonga,N,HIDED,HIDED
+O4NB,24 years old,N,Artocarpus nitidus (A. lamellosus) ,Kubi,N,HIDED,HIDED
+O4NB,24 years old,N,Artocarpus nitidus (A. lamellosus) ,Kubi,N,HIDED,HIDED
+O4NB,24 years old,N,Mallotus mollissimus ,Hanom-o,N,HIDED,HIDED
+O4NB,24 years old,N,Mallotus mollissimus ,Hanom-o,N,HIDED,HIDED
+O4NB,24 years old,N,Artocarpus blancoi,Antipolo,N,HIDED,HIDED
+O4NB,24 years old,N,Acacia mangium,Mangium,E,HIDED,HIDED
+O4NB,24 years old,N,Homalanthus populneus,Balanti,N,HIDED,HIDED
+O4NB,24 years old,N,Pipturus arborescens,Dalunot,N,HIDED,HIDED
+O4NB,24 years old,N,Artocarpus blancoi,Antipolo,N,HIDED,HIDED
+R1SB,Remnant,S,Ficus pseudopalma,Lubi lubi palm,N,HIDED,HIDED
+R1SB,Remnant,S,Myristica philippinensis,Duguan,N,HIDED,HIDED
+R1SB,Remnant,S,Sindora Supa,Supa,N,HIDED,HIDED
+R1SB,Remnant,S,Cinnamomum mercadoi,Kalingan,N,HIDED,HIDED
+R1SB,Remnant,S,Caryota rumphiana,Pugahan,E,HIDED,HIDED
+R1SB,Remnant,S,Cinnamomum mercadoi,Kalingan,N,HIDED,HIDED
+R1SB,Remnant,S,Lithocarpus celebicus,Ulaian,N,HIDED,HIDED
+R1SB,Remnant,S,Diplodiscus paniculatus,Balubo,N,HIDED,HIDED
+R1SB,Remnant,S,Sindora Supa,Supa,N,HIDED,HIDED
+R1SB,Remnant,S,Diospyros blancoi,Kamagong,N,HIDED,HIDED
+R1SB,Remnant,S,Shorea contorta,Lauan,N,HIDED,HIDED
+R1SB,Remnant,S,Cinnamomum mercadoi,Kalingan,N,HIDED,HIDED
+R1SB,Remnant,S,Cinnamomum mercadoi,Kalingan,N,HIDED,HIDED
+R1SB,Remnant,S,Ficus variegata,Tangisang bayawak,E,HIDED,HIDED
+R1SB,Remnant,S,Vitex quinate ,Kulipapa,N,HIDED,HIDED
+R1SB,Remnant,S,Vitex quinate ,Kulipapa,N,HIDED,HIDED
+R1SB,Remnant,S,Ficus pseudopalma,Lubi lubi palm,N,HIDED,HIDED
+R1SB,Remnant,S,Pipturus arborescens,Dalunot,N,HIDED,HIDED
+R1SB,Remnant,S,Sindora Supa,Supa,N,HIDED,HIDED
+R1SB,Remnant,S,Vitex quinate ,Kulipapa,N,HIDED,HIDED
+R1SB,Remnant,S,Ficus pseudopalma,Lubi lubi palm,N,HIDED,HIDED
+R1SB,Remnant,S,Lithocarpus celebicus,Ulaian,N,HIDED,HIDED
+R1SB,Remnant,S,Ficus pseudopalma,Lubi lubi palm,N,HIDED,HIDED
+R1SB,Remnant,S,Lithocarpus celebicus,Ulaian,N,HIDED,HIDED
+R1SB,Remnant,S,Ficus pseudopalma,Lubi lubi palm,N,HIDED,HIDED
+R1SB,Remnant,S,Ficus pseudopalma,Lubi lubi palm,N,HIDED,HIDED
+R1SB,Remnant,S,Ficus pseudopalma,Lubi lubi palm,N,HIDED,HIDED
+R1SB,Remnant,S,Ficus pseudopalma,Lubi lubi palm,N,HIDED,HIDED
+R1SB,Remnant,S,Ficus pseudopalma,Lubi lubi palm,N,HIDED,HIDED
+R1SB,Remnant,S,Calophyllum blancoi,Bitang hol,N,HIDED,HIDED
+R1SB,Remnant,S,Ficus pseudopalma,Lubi lubi palm,N,HIDED,HIDED
+R1SB,Remnant,S,Lithocarpus celebicus,Ulaian,N,HIDED,HIDED
+R1SB,Remnant,S,Ficus pseudopalma,Lubi lubi palm,N,HIDED,HIDED
+R1SB,Remnant,S,Ficus pseudopalma,Lubi lubi palm,N,HIDED,HIDED
+R1SB,Remnant,S,Ficus pseudopalma,Lubi lubi palm,N,HIDED,HIDED
+R1SB,Remnant,S,Glochidion camiguinense ,Bunot,N,HIDED,HIDED
+R1SB,Remnant,S,Radermachera pinnata,Banai-banai,N,HIDED,HIDED
+R1SB,Remnant,S,Polyscias nodosa ,Malapapaya,N,HIDED,HIDED
+R1SB,Remnant,S,Glochidion camiguinense ,Bunot,N,HIDED,HIDED
+R1SB,Remnant,S,Vitex quinate ,Kulipapa,N,HIDED,HIDED
+R1SB,Remnant,S,Ficus pseudopalma,Lubi lubi palm,N,HIDED,HIDED
+R1SB,Remnant,S,Lithocarpus celebicus,Ulaian,N,HIDED,HIDED
+R1SB,Remnant,S,Alstonia scholaris,Dita,N,HIDED,HIDED
+R1SB,Remnant,S,Vitex quinate ,Kulipapa,N,HIDED,HIDED
+R1SB,Remnant,S,Ficus pseudopalma,Lubi lubi palm,N,HIDED,HIDED
+R1SB,Remnant,S,Lithocarpus celebicus,Ulaian,N,HIDED,HIDED
+R1SB,Remnant,S,Vitex quinate ,Kulipapa,N,HIDED,HIDED
+R1SB,Remnant,S,Glochidion camiguinense ,Bunot,N,HIDED,HIDED
+R1SB,Remnant,S,Lithocarpus celebicus,Ulaian,N,HIDED,HIDED
+R1SB,Remnant,S,Lithocarpus celebicus,Ulaian,N,HIDED,HIDED
+R1SB,Remnant,S,Lithocarpus celebicus,Ulaian,N,HIDED,HIDED
+R1SB,Remnant,S,Lithocarpus celebicus,Ulaian,N,HIDED,HIDED
+R1SB,Remnant,S,Lithocarpus celebicus,Ulaian,N,HIDED,HIDED
+R1SB,Remnant,S,Cratoxylum sumatranum,Paguringon,N,HIDED,HIDED
+R1SB,Remnant,S,Morinda citrifolia,Noni,E,HIDED,HIDED
+R1SB,Remnant,S,Lithocarpus celebicus,Ulaian,N,HIDED,HIDED
+R1SB,Remnant,S,Morinda citrifolia,Noni,E,HIDED,HIDED
+R1SB,Remnant,S,Vitex quinate ,Kulipapa,N,HIDED,HIDED
+R1SB,Remnant,S,Vitex quinate ,Kulipapa,N,HIDED,HIDED
+R1SB,Remnant,S,Calophyllum blancoi,Bitang hol,N,HIDED,HIDED
+R1SB,Remnant,S,Lithocarpus celebicus,Ulaian,N,HIDED,HIDED
+R1SB,Remnant,S,Vitex quinate ,Kulipapa,N,HIDED,HIDED
+R1SB,Remnant,S,Lithocarpus celebicus,Ulaian,N,HIDED,HIDED
+R1SB,Remnant,S,Lithocarpus celebicus,Ulaian,N,HIDED,HIDED
+R1SB,Remnant,S,Myristica philippinensis,Duguan,N,HIDED,HIDED
+R2NB,Remnant,N,"Musa acuminata, Musa balbisiana (Musa spp.)",Banana,N,HIDED,HIDED
+R2NB,Remnant,N,"Musa acuminata, Musa balbisiana (Musa spp.)",Banana,N,HIDED,HIDED
+R2NB,Remnant,N,"Musa acuminata, Musa balbisiana (Musa spp.)",Banana,N,HIDED,HIDED
+R2NB,Remnant,N,"Musa acuminata, Musa balbisiana (Musa spp.)",Banana,N,HIDED,HIDED
+R2NB,Remnant,N,Leucyosyke capitellata,Anagasi,N,HIDED,HIDED
+R2NB,Remnant,N,Pipturus arborescens,Dalunot,N,HIDED,HIDED
+R2NB,Remnant,N,Dendrocnide meyeniana,Lipang kalaban,N,HIDED,HIDED
+R2NB,Remnant,N,Pipturus arborescens,Dalunot,N,HIDED,HIDED
+R2NB,Remnant,N,Dendrocnide meyeniana,Lipang kalaban,N,HIDED,HIDED
+R2NB,Remnant,N,Pipturus arborescens,Dalunot,N,HIDED,HIDED
+R2NB,Remnant,N,Pipturus arborescens,Dalunot,N,HIDED,HIDED
+R2NB,Remnant,N,Pipturus arborescens,Dalunot,N,HIDED,HIDED
+R2NB,Remnant,N,Dendrocnide meyeniana,Lipang kalaban,N,HIDED,HIDED
+R2NB,Remnant,N,Dendrocnide meyeniana,Lipang kalaban,N,HIDED,HIDED
+R2NB,Remnant,N,Pipturus arborescens,Dalunot,N,HIDED,HIDED
+R2NB,Remnant,N,Radermachera pinnata,Banai-banai,N,HIDED,HIDED
+R2NB,Remnant,N,Pipturus arborescens,Dalunot,N,HIDED,HIDED
+R2NB,Remnant,N,Pipturus arborescens,Dalunot,N,HIDED,HIDED
+R2NB,Remnant,N,Caryota rumphiana,Pugahan,E,HIDED,HIDED
+R2NB,Remnant,N,Pipturus arborescens,Dalunot,N,HIDED,HIDED
+R2NB,Remnant,N,Radermachera pinnata,Banai-banai,N,HIDED,HIDED
+R2NB,Remnant,N,Dendrocnide meyeniana,Lipang kalaban,N,HIDED,HIDED
+R2NB,Remnant,N,Radermachera pinnata,Banai-banai,N,HIDED,HIDED
+R2NB,Remnant,N,Pipturus arborescens,Dalunot,N,HIDED,HIDED
+R2NB,Remnant,N,Pipturus arborescens,Dalunot,N,HIDED,HIDED
+R2NB,Remnant,N,Angiopteris evecta ,Tree fern,E,HIDED,HIDED
+R2NB,Remnant,N,Fagrea racemosa ,Malacape,E,HIDED,HIDED
+R2NB,Remnant,N,Pipturus arborescens,Dalunot,N,HIDED,HIDED
+R2NB,Remnant,N,Pipturus arborescens,Dalunot,N,HIDED,HIDED
+R2NB,Remnant,N,Mallotus philippensis,Banato,N,HIDED,HIDED
+R2NB,Remnant,N,Ficus heteropoda,Alangas,N,HIDED,HIDED
+R2NB,Remnant,N,Ficus pseudopalma,Lubi lubi palm,N,HIDED,HIDED
+R2NB,Remnant,N,Lithocarpus celebicus,Ulaian,N,HIDED,HIDED
+R2NB,Remnant,N,Vitex quinate ,Kulipapa,N,HIDED,HIDED
+R2NB,Remnant,N,Garcinia ituman,Ituman,N,HIDED,HIDED
+R2NB,Remnant,N,Ficus balete,Dakitan (or Pakitan),N,HIDED,HIDED
+R2NB,Remnant,N,Leea aculeata,Amamali,N,HIDED,HIDED
+R2NB,Remnant,N,Leucyosyke capitellata,Anagasi,N,HIDED,HIDED
+R2NB,Remnant,N,Dendrocnide meyeniana,Lipang kalaban,N,HIDED,HIDED
+R2NB,Remnant,N,"Musa acuminata, Musa balbisiana (Musa spp.)",Banana,N,HIDED,HIDED
+R2NB,Remnant,N,Ficus heteropoda,Alangas,N,HIDED,HIDED
+R3SB,Remnant,S,Ficus ulmifolia,Is is,N,HIDED,HIDED
+R3SB,Remnant,S,Polyscias nodosa ,Malapapaya,N,HIDED,HIDED
+R3SB,Remnant,S,Leucyosyke capitellata,Anagasi,N,HIDED,HIDED
+R3SB,Remnant,S,Morinda citrifolia,Noni,E,HIDED,HIDED
+R3SB,Remnant,S,Unknown,Unknown,NA,HIDED,HIDED
+R3SB,Remnant,S,Artocarpus blancoi,Antipolo,N,HIDED,HIDED
+R3SB,Remnant,S,Calamus rotang,Rattan,E,HIDED,HIDED
+R3SB,Remnant,S,Macaranga tanarius (Linn.),Binonga,N,HIDED,HIDED
+R3SB,Remnant,S,Macaranga tanarius (Linn.),Binonga,N,HIDED,HIDED
+R3SB,Remnant,S,Tabernaemontana pandacaqui,Pandakaki,E,HIDED,HIDED
+R3SB,Remnant,S,Calamus rotang,Rattan,E,HIDED,HIDED
+R3SB,Remnant,S,Cocos nucifera,Coconut,N,HIDED,HIDED
+R3SB,Remnant,S,Alstonia scholaris,Dita,N,HIDED,HIDED
+R3SB,Remnant,S,Artocarpus nitidus (A. lamellosus) ,Kubi,N,HIDED,HIDED
+R3SB,Remnant,S,Artocarpus blancoi,Antipolo,N,HIDED,HIDED
+R3SB,Remnant,S,Polyscias nodosa ,Malapapaya,N,HIDED,HIDED
+R3SB,Remnant,S,Acacia mangium,Mangium,E,HIDED,HIDED
+R3SB,Remnant,S,Morinda citrifolia,Noni,E,HIDED,HIDED
+R3SB,Remnant,S,Acacia mangium,Mangium,E,HIDED,HIDED
+R3SB,Remnant,S,Macaranga tanarius (Linn.),Binonga,N,HIDED,HIDED
+R4NB,Remnant,N,Artocarpus blancoi,Antipolo,N,HIDED,HIDED
+R4NB,Remnant,N,Artocarpus blancoi,Antipolo,N,HIDED,HIDED
+R4NB,Remnant,N,Flueggea flexuosa,Anislag,N,HIDED,HIDED
+R4NB,Remnant,N,Cocos nucifera,Coconut,N,HIDED,HIDED
+R4NB,Remnant,N,Sandoricum vidalii ,Santol,N,HIDED,HIDED
+R4NB,Remnant,N,Artocarpus nitidus (A. lamellosus) ,Kubi,N,HIDED,HIDED
+R4NB,Remnant,N,Syzigium huchinsonii,Malatambis,N,HIDED,HIDED
+R4NB,Remnant,N,Radermachera pinnata,Banai-banai,N,HIDED,HIDED
+R4NB,Remnant,N,Psydrax dicoccos Gaertn.,Bagosalak,E,HIDED,HIDED
+R4NB,Remnant,N,Flueggea flexuosa,Anislag,N,HIDED,HIDED
+R4NB,Remnant,N,Caryota rumphiana,Pugahan,E,HIDED,HIDED
+R4NB,Remnant,N,Syzigium huchinsonii,Malatambis,N,HIDED,HIDED
+R4NB,Remnant,N,Cananga odorata,Ilang-Ilang,N,HIDED,HIDED
+R4NB,Remnant,N,Cratoxylum sumatranum,Paguringon,N,HIDED,HIDED
+R4NB,Remnant,N,Macaranga tanarius (Linn.),Binonga,N,HIDED,HIDED
+R4NB,Remnant,N,Polyscias nodosa ,Malapapaya,N,HIDED,HIDED
+R4NB,Remnant,N,Polyscias nodosa ,Malapapaya,N,HIDED,HIDED
+R4NB,Remnant,N,Polyscias nodosa ,Malapapaya,N,HIDED,HIDED
+R4NB,Remnant,N,Macaranga tanarius (Linn.),Binonga,N,HIDED,HIDED
+R4NB,Remnant,N,Radermachera pinnata,Banai-banai,N,HIDED,HIDED
+R4NB,Remnant,N,Fagrea racemosa ,Malacape,E,HIDED,HIDED
+R4NB,Remnant,N,Macaranga tanarius (Linn.),Binonga,N,HIDED,HIDED
+R4NB,Remnant,N,Artocarpus blancoi,Antipolo,N,HIDED,HIDED
+R4NB,Remnant,N,Syzigium huchinsonii,Malatambis,N,HIDED,HIDED
+R4NB,Remnant,N,Polyscias nodosa ,Malapapaya,N,HIDED,HIDED
+R4NB,Remnant,N,Artocarpus nitidus (A. lamellosus) ,Kubi,N,HIDED,HIDED
+R4NB,Remnant,N,Homalanthus populneus,Balanti,N,HIDED,HIDED
+R4NB,Remnant,N,Homalanthus populneus,Balanti,N,HIDED,HIDED
+R4NB,Remnant,N,Ficus nota ,Tibig,N,HIDED,HIDED
+R4NB,Remnant,N,Ficus congesta,Malatibig,E,HIDED,HIDED
+R4NB,Remnant,N,Macaranga tanarius (Linn.),Binonga,N,HIDED,HIDED
+R4NB,Remnant,N,Artocarpus nitidus (A. lamellosus) ,Kubi,N,HIDED,HIDED
+R4NB,Remnant,N,Artocarpus blancoi,Antipolo,N,HIDED,HIDED
+R4NB,Remnant,N,Cratoxylum sumatranum,Paguringon,N,HIDED,HIDED
+R4NB,Remnant,N,Cratoxylum sumatranum,Paguringon,N,HIDED,HIDED
+R4NB,Remnant,N,Artocarpus blancoi,Antipolo,N,HIDED,HIDED
+R4NB,Remnant,N,Cocos nucifera,Coconut,N,HIDED,HIDED
+R4NB,Remnant,N,Polyscias nodosa ,Malapapaya,N,HIDED,HIDED
+R4NB,Remnant,N,Dendrocnide meyeniana,Lipang kalaban,N,HIDED,HIDED
+R4NB,Remnant,N,Calophyllum blancoi,Bitang hol,N,HIDED,HIDED
+R4NB,Remnant,N,Cratoxylum sumatranum,Paguringon,N,HIDED,HIDED
